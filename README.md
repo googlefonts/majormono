@@ -5,6 +5,9 @@ Majör is a monospace geometric sans-serif typeface that aims to perform in disp
 
 It combines a variety of stroke weights and forms through a variety of alternate characters where the user is provided with an eclectic visual collection. Majör is a friendly but pragmatic sans-serif typeface with a twist of Scandinavian design flavor.
 
+## License
+Majör Mono Display is licensed under the SIL Open Font License v1.1
+
 <br/>
 
 ---
