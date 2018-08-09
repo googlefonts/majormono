@@ -335,7 +335,7 @@
       },
       {
         "name":"i.tr",
-        "lastModified":"16.07.2018 20:16:41",
+        "lastModified":"09.08.2018 20:09:49",
         "layers":[
           {
             "elements":[
@@ -372,8 +372,7 @@
                     }
                   ]
                 },
-                "locked":true,
-                "active":true
+                "locked":true
               },
               {
                 "elementData":{
@@ -426,10 +425,10 @@
                   ]
                 },
                 "transform":{
-                  "xOffset":112,
                   "yOffset":7
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               }
             ],
             "color":"maroon",
@@ -2494,8 +2493,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -3306,7 +3304,7 @@
         "unicodes":[
           79
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -3363,8 +3361,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -4429,7 +4426,7 @@
         "unicodes":[
           97
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -4502,7 +4499,7 @@
         "unicodes":[
           98
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -4678,7 +4675,7 @@
         "unicodes":[
           99
         ],
-        "lastModified":"19.07.2018 20:17:11",
+        "lastModified":"09.08.2018 19:09:56",
         "layers":[
           {
             "elements":[
@@ -4734,7 +4731,8 @@
                 },
                 "transform":{
                   "xOffset":-7
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -4822,7 +4820,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"356 67",
+                "point":"356 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -4884,13 +4882,14 @@
                 },
                 "transform":{
                   "xOffset":5
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
               {
                 "name":"top",
-                "point":"374 67",
+                "point":"374 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -5050,7 +5049,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"367 67",
+                "point":"367 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -5115,7 +5114,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -5576,7 +5575,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -5659,7 +5658,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -5897,13 +5897,14 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -5927,7 +5928,7 @@
         "unicodes":[
           115
         ],
-        "lastModified":"08.08.2018 10:23:00",
+        "lastModified":"09.08.2018 19:00:31",
         "layers":[
           {
             "elements":[
@@ -5944,7 +5945,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"378 67",
+                "point":"378 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -6005,7 +6006,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -6070,7 +6071,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -6270,7 +6272,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -6969,7 +6971,7 @@
         "unicodes":[
           192
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7050,7 +7052,7 @@
         "unicodes":[
           193
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7101,7 +7103,7 @@
         "unicodes":[
           194
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7172,7 +7174,7 @@
         "unicodes":[
           195
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7257,7 +7259,7 @@
         "unicodes":[
           196
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7413,7 +7415,7 @@
         "unicodes":[
           197
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7507,7 +7509,7 @@
         "unicodes":[
           199
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -7568,7 +7570,7 @@
         "unicodes":[
           214
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -7658,7 +7660,7 @@
         "unicodes":[
           220
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -9912,7 +9914,7 @@
         "unicodes":[
           231
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -9964,7 +9966,7 @@
         "unicodes":[
           252
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -9972,7 +9974,8 @@
                 "elementData":{
                   "href":"u~1"
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               },
               {
                 "elementData":{
@@ -10018,7 +10021,7 @@
         "unicodes":[
           246
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -10054,7 +10057,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -10112,7 +10115,7 @@
         "unicodes":[
           216
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -10390,7 +10393,7 @@
         "unicodes":[
           200
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10456,7 +10459,7 @@
         "unicodes":[
           201
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -10521,7 +10524,7 @@
         "unicodes":[
           202
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10584,7 +10587,7 @@
         "unicodes":[
           203
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10650,7 +10653,7 @@
         "unicodes":[
           204
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10704,7 +10707,7 @@
         "unicodes":[
           205
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10758,7 +10761,7 @@
         "unicodes":[
           206
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10809,7 +10812,7 @@
         "unicodes":[
           207
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10863,7 +10866,7 @@
         "unicodes":[
           209
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10913,7 +10916,7 @@
         "unicodes":[
           210
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -10963,7 +10966,7 @@
         "unicodes":[
           211
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11013,7 +11016,7 @@
         "unicodes":[
           212
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11060,7 +11063,7 @@
         "unicodes":[
           213
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11110,7 +11113,7 @@
         "unicodes":[
           217
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11167,7 +11170,7 @@
         "unicodes":[
           218
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11278,7 +11281,7 @@
         "unicodes":[
           221
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11414,7 +11417,7 @@
         "unicodes":[
           225
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11468,7 +11471,7 @@
         "unicodes":[
           226
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11519,7 +11522,7 @@
         "unicodes":[
           227
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11573,7 +11576,7 @@
         "unicodes":[
           228
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11627,7 +11630,7 @@
         "unicodes":[
           229
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11678,7 +11681,7 @@
         "unicodes":[
           232
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -11697,8 +11700,7 @@
                   "href":"gravecomb~1"
                 },
                 "transform":{
-                  "xOffset":-2,
-                  "yOffset":-629
+                  "xOffset":-2
                 },
                 "locked":true
               }
@@ -11706,7 +11708,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"374 269",
+                "point":"374 898",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -11731,7 +11733,7 @@
         "unicodes":[
           233
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -11750,8 +11752,7 @@
                   "href":"acutecomb~1"
                 },
                 "transform":{
-                  "xOffset":10,
-                  "yOffset":-629
+                  "xOffset":10
                 },
                 "locked":true
               }
@@ -11759,7 +11760,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"374 269",
+                "point":"374 898",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -11784,7 +11785,7 @@
         "unicodes":[
           234
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -11808,7 +11809,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"374 67",
+                "point":"374 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -11833,7 +11834,7 @@
         "unicodes":[
           235
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -11860,7 +11861,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"374 67",
+                "point":"374 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -11885,7 +11886,7 @@
         "unicodes":[
           236
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11928,7 +11929,7 @@
         "unicodes":[
           237
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -11970,7 +11971,7 @@
         "unicodes":[
           238
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12006,7 +12007,7 @@
         "unicodes":[
           239
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12045,7 +12046,7 @@
         "unicodes":[
           242
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -12061,8 +12062,7 @@
                   "href":"gravecomb~1"
                 },
                 "transform":{
-                  "xOffset":-6,
-                  "yOffset":-629
+                  "xOffset":-6
                 },
                 "locked":true
               }
@@ -12082,7 +12082,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 269",
+                "point":"370 898",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -12107,7 +12107,7 @@
         "unicodes":[
           243
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12122,8 +12122,7 @@
                   "href":"acutecomb~1"
                 },
                 "transform":{
-                  "xOffset":6,
-                  "yOffset":-629
+                  "xOffset":6
                 },
                 "locked":true
               }
@@ -12143,7 +12142,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 269",
+                "point":"370 898",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -12170,7 +12169,7 @@
         "unicodes":[
           244
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12202,7 +12201,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 67",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -12229,7 +12228,7 @@
         "unicodes":[
           245
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -12245,8 +12244,7 @@
                   "href":"tildecomb~1"
                 },
                 "transform":{
-                  "xOffset":-2,
-                  "yOffset":-629
+                  "xOffset":-2
                 },
                 "locked":true
               }
@@ -12266,7 +12264,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 269",
+                "point":"370 898",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -12344,7 +12342,7 @@
         "unicodes":[
           249
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12398,7 +12396,7 @@
         "unicodes":[
           250
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12452,7 +12450,7 @@
         "unicodes":[
           251
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12503,7 +12501,7 @@
         "unicodes":[
           253
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12553,7 +12551,7 @@
         "unicodes":[
           255
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -12921,7 +12919,7 @@
               },
               {
                 "name":"top",
-                "point":"370.01 898",
+                "point":"370.01 -69",
                 "exprY":"AccentStack"
               }
             ],
@@ -13022,7 +13020,7 @@
         "unicodes":[
           241
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -13217,7 +13215,7 @@
         "unicodes":[
           258
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -13268,7 +13266,7 @@
         "unicodes":[
           259
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -13354,7 +13352,7 @@
         "unicodes":[
           263
         ],
-        "lastModified":"19.07.2018 20:14:01",
+        "lastModified":"09.08.2018 19:09:56",
         "mark":241,
         "layers":[
           {
@@ -13435,7 +13433,7 @@
         "unicodes":[
           265
         ],
-        "lastModified":"19.07.2018 20:13:22",
+        "lastModified":"09.08.2018 19:09:56",
         "mark":241,
         "layers":[
           {
@@ -13527,7 +13525,7 @@
         "unicodes":[
           267
         ],
-        "lastModified":"16.07.2018 22:19:22",
+        "lastModified":"09.08.2018 19:09:56",
         "mark":241,
         "layers":[
           {
@@ -13609,7 +13607,7 @@
         "unicodes":[
           269
         ],
-        "lastModified":"17.07.2018 02:32:14",
+        "lastModified":"09.08.2018 19:09:56",
         "mark":241,
         "layers":[
           {
@@ -14536,7 +14534,7 @@
         "unicodes":[
           256
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -14584,7 +14582,7 @@
         "unicodes":[
           257
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "layers":[
           {
             "elements":[
@@ -14917,7 +14915,7 @@
         "unicodes":[
           334
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -15015,7 +15013,7 @@
         "unicodes":[
           332
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -17359,7 +17357,7 @@
                         "568.122 514.225",
                         "542.1 540.272",
                         "481.538 479.71",
-                        "416.802 532.293 c",
+                        "416.803 532.293 c",
                         "323.271 532.318 c",
                         "258.487 479.71",
                         "197.924 540.272",
@@ -17437,9 +17435,100 @@
         "unicodes":[
           167
         ],
-        "lastModified":"12.07.2018 16:23:53",
+        "lastModified":"09.08.2018 19:00:36",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "464.733 169.661",
+                        "510.102 185.575 c",
+                        "543.402 234.994 c",
+                        "543.863 289.944 s",
+                        "544.801 381.725 c",
+                        "489.181 406.881 c",
+                        "415 436 s",
+                        "378.83 450.198 c",
+                        "344.501 459 c",
+                        "300 477 s",
+                        "266.203 490.519 c",
+                        "236.487 532.288 c",
+                        "236.358 569.466 s",
+                        "236.13 635 c",
+                        "284 674.952 c",
+                        "361.54 675 s",
+                        "433 675 c",
+                        "488.745 617.567 c",
+                        "488.745 547.971",
+                        "525.568 547.971",
+                        "525.544 637.869 c",
+                        "453 711 c",
+                        "361.515 711 s",
+                        "263 711 c",
+                        "199.842 657 c",
+                        "199.51 569.465 s",
+                        "199.352 527.672 c",
+                        "226.887 481.32 c",
+                        "267 455.936",
+                        "217.608 430.479 c",
+                        "184.511 388.952 c",
+                        "184.511 331.262 s",
+                        "184.511 286.436 c",
+                        "212 232.77 c",
+                        "274.06 208.081 s",
+                        "329.29 185.705 c",
+                        "369.549 169.61 c",
+                        "436.309 142.716 s",
+                        "476.838 126.39 c",
+                        "491.003 92 c",
+                        "491 55.715 s",
+                        "490.992 -26 c",
+                        "424.419 -61.2385 c",
+                        "352.412 -61 s",
+                        "280.999 -60.7635 c",
+                        "217.321 -6.68692 c",
+                        "217.321 65.7309",
+                        "180.547 65.7309",
+                        "180.547 -26.6452 c",
+                        "261 -97.1459 c",
+                        "352.462 -97.2984 s",
+                        "439.934 -97.4443 c",
+                        "526.888 -50.4281 c",
+                        "526.888 55.7149",
+                        "526.864 95.2372 c",
+                        "508 145.661 c"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "221.359 331.263 s",
+                        "221.359 384.853 c",
+                        "257.241 421.599 c",
+                        "309 435",
+                        "398 405",
+                        "458.686 382.725 c",
+                        "509.056 363.534 c",
+                        "508 289.944 s",
+                        "507.189 229.997 c",
+                        "460.114 196.509 c",
+                        "425.434 186.486",
+                        "371.023 207.733 c",
+                        "321.609 225.196 c",
+                        "286.398 242.815 s",
+                        "242.415 264.911 c",
+                        "221.359 296.084 c"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -18213,7 +18302,7 @@
                 },
                 "transform":{
                   "xScale":-1,
-                  "xOffset":730.00
+                  "xOffset":730
                 },
                 "active":true
               }
@@ -18463,7 +18552,7 @@
               },
               {
                 "name":"top",
-                "point":"370 898",
+                "point":"370 -69",
                 "exprY":"AccentStack"
               }
             ],
@@ -18499,7 +18588,7 @@
               },
               {
                 "name":"top",
-                "point":"370 898",
+                "point":"370 -69",
                 "exprY":"AccentStack"
               }
             ],
@@ -20048,7 +20137,8 @@
                 "elementData":{
                   "href":"r~1"
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               },
               {
                 "elementData":{
@@ -20084,7 +20174,7 @@
         "unicodes":[
           336
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -20417,9 +20507,58 @@
         "unicodes":[
           399
         ],
-        "lastModified":"10.07.2018 15:21:52",
+        "lastModified":"09.08.2018 19:12:43",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "457.081 429.588 s",
+                        "457.081 409",
+                        "65 409",
+                        "64.5026 262.663 s",
+                        "63 86 c",
+                        "173.503 -14.4147 c",
+                        "348.943 -14.6172 s",
+                        "505.017 -14.7974 c",
+                        "638.473 99 c",
+                        "638.473 275 s",
+                        "638.473 421",
+                        "638.503 595.413 c",
+                        "514.115 710.916 c",
+                        "351.005 710.839 s",
+                        "174.503 710.756 c",
+                        "67.8939 585 c",
+                        "66.5026 458.559",
+                        "247 458.559",
+                        "247.635 503 c",
+                        "285 544 c",
+                        "349 544 s",
+                        "414 544 c",
+                        "457.081 503.158 c"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "457.03 262",
+                        "455.508 187.377 c",
+                        "418.539 149.986 c",
+                        "349 150 s",
+                        "280.238 150.014 c",
+                        "242.227 190.836 c",
+                        "242.003 262"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":702,
             "name":"Body"
@@ -20455,7 +20594,7 @@
         "unicodes":[
           416
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -21161,7 +21300,7 @@
         "unicodes":[
           490
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -21397,7 +21536,7 @@
         "unicodes":[
           510
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -22101,7 +22240,7 @@
         "unicodes":[
           524
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -22185,7 +22324,7 @@
         "unicodes":[
           526
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -22748,7 +22887,7 @@
         "unicodes":[
           554
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -22867,7 +23006,7 @@
         "unicodes":[
           556
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -23148,9 +23287,60 @@
         "unicodes":[
           601
         ],
-        "lastModified":"12.07.2018 16:23:43",
+        "lastModified":"09.08.2018 19:13:15",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "368.701 -14.6173 s",
+                        "523.148 -14.6123 c",
+                        "651 110.997 c",
+                        "650.902 266.182",
+                        "650.902 429.663 s",
+                        "650.902 584.605 c",
+                        "525.229 710.825 c",
+                        "370.649 710.83 s",
+                        "214.229 710.835 c",
+                        "92.2289 605 c",
+                        "92.2289 464",
+                        "128.422 464",
+                        "131.422 586 c",
+                        "233.596 674.01 c",
+                        "370.243 674.01 s",
+                        "505.048 674.01 c",
+                        "614.082 564.459 c",
+                        "614.082 429.776 s",
+                        "614.082 360.183",
+                        "91 359.816",
+                        "90.5199 232.213",
+                        "90.5199 92.2127 c",
+                        "210.417 -14.6224 c"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "126 322.84",
+                        "614.082 323.183",
+                        "614.082 266.254",
+                        "614 131.996 c",
+                        "502.896 22.2024 c",
+                        "368.146 22.2028 s",
+                        "229.55 22.2032 c",
+                        "129.422 111.213 c",
+                        "126 232.213"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -23825,7 +24015,7 @@
         "unicodes":[
           7843
         ],
-        "lastModified":"08.08.2018 12:12:01",
+        "lastModified":"09.08.2018 20:03:28",
         "mark":241,
         "layers":[
           {
@@ -27262,7 +27452,7 @@
         "unicodes":[
           7884
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "mark":241,
         "layers":[
           {
@@ -27370,7 +27560,7 @@
         "unicodes":[
           7886
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -27452,7 +27642,7 @@
         "unicodes":[
           7888
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -27613,7 +27803,7 @@
         "unicodes":[
           7890
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -27764,7 +27954,7 @@
         "unicodes":[
           7892
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -27909,7 +28099,7 @@
         "unicodes":[
           7894
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -28149,7 +28339,7 @@
         "unicodes":[
           7898
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -28237,7 +28427,7 @@
         "unicodes":[
           7900
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -28328,7 +28518,7 @@
         "unicodes":[
           7902
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -28410,7 +28600,7 @@
         "unicodes":[
           7904
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -28498,7 +28688,7 @@
         "unicodes":[
           7906
         ],
-        "lastModified":"20.07.2018 16:42:58",
+        "lastModified":"09.08.2018 19:03:00",
         "layers":[
           {
             "elements":[
@@ -30546,9 +30736,77 @@
         "unicodes":[
           8363
         ],
-        "lastModified":"12.07.2018 16:19:00",
+        "lastModified":"09.08.2018 20:06:14",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "558.301 0",
+                        "558.301 38.5418",
+                        "149.348 38.5418",
+                        "149.348 0"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "532.838 639.399",
+                        "532.838 711",
+                        "494.296 711",
+                        "494.296 639.399",
+                        "341.038 639.399",
+                        "341.038 600.857",
+                        "494.272 600.857",
+                        "494.272 445",
+                        "467 491.618 c",
+                        "406.686 527.902 c",
+                        "341.038 527.902",
+                        "231.141 528.001 c",
+                        "148.995 444.19 c",
+                        "149.261 333.077 s",
+                        "149.261 296.681 s",
+                        "149.261 187.924 c",
+                        "232 101.905 c",
+                        "341.038 101.905 s",
+                        "406 101.905 c",
+                        "467 141.382 c",
+                        "494.272 188",
+                        "494.272 112.2",
+                        "532.814 112.2",
+                        "532.814 600.857",
+                        "611.738 600.857",
+                        "611.738 639.399"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "341.038 140",
+                        "253.54 140 c",
+                        "187.803 209.208 c",
+                        "187.803 296.705 s",
+                        "187.803 333.101 s",
+                        "188.004 422.613 c",
+                        "252.713 490 c",
+                        "341.038 490 s",
+                        "429 490 c",
+                        "494.272 422 c",
+                        "494.272 336.101 s",
+                        "494.272 293.705",
+                        "494.297 207 c",
+                        "429 140 c"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -31481,9 +31739,711 @@
         "unicodes":[
           8377
         ],
-        "lastModified":"12.07.2018 16:24:21",
+        "lastModified":"09.08.2018 19:24:09",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "537.004 446.69",
+                        "637.979 446.69",
+                        "637.979 483.69",
+                        "537.497 483.69",
+                        "532.835 556.417 c",
+                        "497 624 c",
+                        "430 659.001",
+                        "638.464 659",
+                        "638.464 696",
+                        "117.485 696",
+                        "117 659.003",
+                        "276 659",
+                        "326 659 c",
+                        "360.198 656.467 c",
+                        "389 644 s",
+                        "456 615.328 c",
+                        "495.035 553.279 c",
+                        "500.399 483.69",
+                        "117 483.69",
+                        "117 446.687",
+                        "499.807 446.689",
+                        "489.119 351.484 c",
+                        "407.736 276 c",
+                        "309 276 s",
+                        "117 276",
+                        "117 239",
+                        "299 239 s",
+                        "310 239 c",
+                        "327 240 c",
+                        "327 240",
+                        "528 0",
+                        "576 0",
+                        "369 247",
+                        "459.364 272.153 c",
+                        "528.032 351.113 c"
+                      ],
+                      "closed":true
+                    }
+                  ],
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "nodes":[
+                                "309 276 s",
+                                "117 276",
+                                "117 239",
+                                "299 239 s",
+                                "310 239 c",
+                                "327 240 c",
+                                "327 240",
+                                "528 0",
+                                "576 0",
+                                "369 247",
+                                "459.364 272.153 c",
+                                "528.032 351.113 c",
+                                "537.004 446.69",
+                                "637.979 446.69",
+                                "637.979 483.69",
+                                "537.497 483.69",
+                                "532.835 556.417 c",
+                                "497 624 c",
+                                "430 659.001",
+                                "638.464 659",
+                                "638.464 696",
+                                "276 696",
+                                "117.485 696",
+                                "117 659",
+                                "276 659 s",
+                                "326 659 c",
+                                "360.198 656.467 c",
+                                "389 644 s",
+                                "456 615.328 c",
+                                "495.035 553.279 c",
+                                "500.399 483.691",
+                                "117 483.69",
+                                "117 446.69",
+                                "499.807 446.69",
+                                "489.119 351.485 c",
+                                "407.736 276 c"
+                              ],
+                              "closed":true
+                            }
+                          ]
+                        },
+                        "active":true
+                      }
+                    ],
+                    "builder":{
+                      "builderFill":{
+                        "curvature":0.60,
+                        "inktrapLen":2,
+                        "graph":{
+                          "edges":[
+                            {
+                              "id":"Edge~1",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~1",
+                                "point":"369 247"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~4",
+                                "point":"537.00 446.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"369 247"},
+                                  {"point":"459.36 272.15"},
+                                  {"point":"528.03 351.11"},
+                                  {"point":"537.00 446.69"}
+                                ],
+                                "leftIdx":9,
+                                "rightIdx":12,
+                                "paramT":7,
+                                "brect":"369 247 168.00 199.69"
+                              }
+                            },
+                            {
+                              "id":"Edge~2",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~3",
+                                "point":"576 0"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~1"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"576 0"},
+                                  {"point":"369 247"}
+                                ],
+                                "contourIx":7,
+                                "rightIdx":1,
+                                "brect":"369 0 207 247"
+                              }
+                            },
+                            {
+                              "id":"Edge~10",
+                              "t1":0.99999973,
+                              "vertex1":{
+                                "id":"Vertex~12",
+                                "point":"117 446.69"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~20",
+                                "point":"499.81 446.69",
+                                "isIntersection":true
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 446.69"},
+                                  {"point":"499.81 446.69"}
+                                ],
+                                "contourIx":8,
+                                "rightIdx":1,
+                                "brect":"117 446.69 382.81 0.00"
+                              }
+                            },
+                            {
+                              "id":"Edge~20",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~5",
+                                "point":"537.50 483.69"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~2",
+                                "point":"430 659.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"537.50 483.69"},
+                                  {"point":"532.83 556.42"},
+                                  {"point":"497 624"},
+                                  {"point":"430 659.00"}
+                                ],
+                                "leftIdx":15,
+                                "rightIdx":18,
+                                "paramT":11,
+                                "brect":"430 483.69 107.50 175.31"
+                              }
+                            },
+                            {
+                              "id":"Edge~19",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~2"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~8",
+                                "point":"638.46 659"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"430 659.00"},
+                                  {"point":"638.46 659"}
+                                ],
+                                "contourIx":14,
+                                "rightIdx":1,
+                                "brect":"430 659 208.46 0.00"
+                              }
+                            },
+                            {
+                              "id":"Edge~3",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~23",
+                                "point":"528 0"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~3"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"528 0"},
+                                  {"point":"576 0"}
+                                ],
+                                "contourIx":6,
+                                "rightIdx":1,
+                                "brect":"528 0 48 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~23",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~4"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~6",
+                                "point":"637.98 446.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"537.00 446.69"},
+                                  {"point":"637.98 446.69"}
+                                ],
+                                "contourIx":9,
+                                "rightIdx":1,
+                                "brect":"537.00 446.69 100.97 0.00"
+                              }
+                            },
+                            {
+                              "id":"Edge~21",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~7",
+                                "point":"637.98 483.69"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~5"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 483.69"},
+                                  {"point":"537.50 483.69"}
+                                ],
+                                "contourIx":11,
+                                "rightIdx":1,
+                                "brect":"537.50 483.69 100.48 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~22",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~6"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~7"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 446.69"},
+                                  {"point":"637.98 483.69"}
+                                ],
+                                "contourIx":10,
+                                "rightIdx":1,
+                                "brect":"637.98 446.69 0 37"
+                              }
+                            },
+                            {
+                              "id":"Edge~18",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~8"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~15",
+                                "point":"638.46 696"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"638.46 659"},
+                                  {"point":"638.46 696"}
+                                ],
+                                "contourIx":15,
+                                "rightIdx":1,
+                                "brect":"638.46 659 0 37"
+                              }
+                            },
+                            {
+                              "id":"Edge~13",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~18",
+                                "point":"389 644"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~9",
+                                "point":"500.40 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"389 644"},
+                                  {"point":"456 615.33"},
+                                  {"point":"495.04 553.28"},
+                                  {"point":"500.40 483.69"}
+                                ],
+                                "leftIdx":27,
+                                "rightIdx":30,
+                                "paramT":19,
+                                "brect":"389 483.69 111.40 160.31"
+                              }
+                            },
+                            {
+                              "id":"Edge~12",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~9"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~11",
+                                "point":"117 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"500.40 483.69"},
+                                  {"point":"117 483.69"}
+                                ],
+                                "contourIx":12,
+                                "rightIdx":1,
+                                "brect":"117 483.69 383.40 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~8",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"Vertex~21",
+                                "point":"309 276"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~10",
+                                "point":"117 276"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"309 276"},
+                                  {"point":"117 276"}
+                                ],
+                                "contourIx":1,
+                                "rightIdx":1,
+                                "brect":"117 276 192 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~7",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~10"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~13",
+                                "point":"117 239"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 276"},
+                                  {"point":"117 239"}
+                                ],
+                                "contourIx":3,
+                                "rightIdx":1,
+                                "brect":"117 239 0 37"
+                              }
+                            },
+                            {
+                              "id":"Edge~11",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~11"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~12"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 483.69"},
+                                  {"point":"117 446.69"}
+                                ],
+                                "contourIx":2,
+                                "rightIdx":1,
+                                "brect":"117 446.69 0 37"
+                              }
+                            },
+                            {
+                              "id":"Edge~6",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~13"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~19",
+                                "point":"299 239"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 239"},
+                                  {"point":"299 239"}
+                                ],
+                                "contourIx":4,
+                                "rightIdx":1,
+                                "brect":"117 239 182 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~16",
+                              "t1":0.99993212,
+                              "vertex1":{
+                                "id":"Vertex~16",
+                                "point":"117.49 696"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~14",
+                                "point":"117 659",
+                                "isIntersection":true
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117.49 696"},
+                                  {"point":"117 659"}
+                                ],
+                                "contourIx":17,
+                                "rightIdx":1,
+                                "brect":"117 659 0.49 37"
+                              }
+                            },
+                            {
+                              "id":"Edge~15",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~14"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~17",
+                                "point":"276 659.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 659.00"},
+                                  {"point":"276 659.00"}
+                                ],
+                                "contourIx":13,
+                                "rightIdx":1,
+                                "brect":"117 659.00 159 0.00"
+                              }
+                            },
+                            {
+                              "id":"Edge~17",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~15"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~16"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"638.46 696"},
+                                  {"point":"117.49 696"}
+                                ],
+                                "contourIx":16,
+                                "rightIdx":1,
+                                "brect":"117.49 696 520.98 0"
+                              }
+                            },
+                            {
+                              "id":"Edge~14",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~17"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~18"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"276 659"},
+                                  {"point":"326 659"},
+                                  {"point":"360.20 656.47"},
+                                  {"point":"389 644"}
+                                ],
+                                "leftIdx":24,
+                                "rightIdx":27,
+                                "paramT":18,
+                                "brect":"276 644 113 15"
+                              }
+                            },
+                            {
+                              "id":"Edge~5",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~19"
+                              },
+                              "vertex2":{
+                                "id":"Vertex~22",
+                                "point":"327 240"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"299 239"},
+                                  {"point":"310 239"},
+                                  {"point":"327 240"},
+                                  {"point":"327 240"}
+                                ],
+                                "leftIdx":3,
+                                "rightIdx":6,
+                                "paramT":3,
+                                "brect":"299 239 28 1"
+                              }
+                            },
+                            {
+                              "id":"Edge~9",
+                              "t0":0,
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~20"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~21"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"499.81 446.69"},
+                                  {"point":"489.12 351.48"},
+                                  {"point":"407.74 276"},
+                                  {"point":"309 276"}
+                                ],
+                                "leftIdx":33,
+                                "rightIdx":36,
+                                "paramT":23,
+                                "brect":"309 276 190.81 170.69"
+                              }
+                            },
+                            {
+                              "id":"Edge~4",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"Vertex~22"
+                              },
+                              "vertex2":{
+                                "href":"Vertex~23"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"327 240"},
+                                  {"point":"528 0"}
+                                ],
+                                "contourIx":5,
+                                "rightIdx":1,
+                                "brect":"327 0 201 240"
+                              }
+                            }
+                          ],
+                          "routes":[
+                            {
+                              "dictRoute":{
+                                "edges":[
+                                  {
+                                    "href":"Edge~1"
+                                  },
+                                  {
+                                    "href":"Edge~2"
+                                  },
+                                  {
+                                    "href":"Edge~3"
+                                  },
+                                  {
+                                    "href":"Edge~4"
+                                  },
+                                  {
+                                    "href":"Edge~5"
+                                  },
+                                  {
+                                    "href":"Edge~6"
+                                  },
+                                  {
+                                    "href":"Edge~7"
+                                  },
+                                  {
+                                    "href":"Edge~8"
+                                  },
+                                  {
+                                    "href":"Edge~9"
+                                  },
+                                  {
+                                    "href":"Edge~10"
+                                  },
+                                  {
+                                    "href":"Edge~11"
+                                  },
+                                  {
+                                    "href":"Edge~12"
+                                  },
+                                  {
+                                    "href":"Edge~13"
+                                  },
+                                  {
+                                    "href":"Edge~14"
+                                  },
+                                  {
+                                    "href":"Edge~15"
+                                  },
+                                  {
+                                    "href":"Edge~16"
+                                  },
+                                  {
+                                    "href":"Edge~17"
+                                  },
+                                  {
+                                    "href":"Edge~18"
+                                  },
+                                  {
+                                    "href":"Edge~19"
+                                  },
+                                  {
+                                    "href":"Edge~20"
+                                  },
+                                  {
+                                    "href":"Edge~21"
+                                  },
+                                  {
+                                    "href":"Edge~22"
+                                  },
+                                  {
+                                    "href":"Edge~23"
+                                  }
+                                ],
+                                "index":0
+                              }
+                            }
+                          ],
+                          "graphClosedRouteIxs":"0",
+                          "graphShapes":[
+                            {
+                              "graphShape":{
+                                "filled":true,
+                                "graphRouteIxs":"0"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -31550,9 +32510,50 @@
         "unicodes":[
           8380
         ],
-        "lastModified":"12.07.2018 16:24:22",
+        "lastModified":"09.08.2018 20:14:42",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "597.245 311.379 s",
+                        "597.245 0",
+                        "634.075 0",
+                        "634.075 310.85 s",
+                        "634.075 475.83 c",
+                        "515.592 591.91 c",
+                        "369.986 591.91 s",
+                        "224.379 591.91 c",
+                        "105.925 476.003 c",
+                        "105.925 310.85 s",
+                        "105.925 0",
+                        "142.745 0",
+                        "142.745 311.379 s",
+                        "142.745 456.285 c",
+                        "244.689 556 c",
+                        "369.986 556 s",
+                        "495.292 556 c",
+                        "597.245 455.758 c"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "351.632 0",
+                        "387.632 0",
+                        "387.632 696",
+                        "351.632 696"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -31565,9 +32566,72 @@
         "unicodes":[
           8381
         ],
-        "lastModified":"12.07.2018 16:24:23",
+        "lastModified":"09.08.2018 19:28:07",
         "layers":[
           {
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "90.4357 139.809",
+                        "90.4357 102.809",
+                        "197 102.809",
+                        "197 0",
+                        "234 0",
+                        "234 102.809",
+                        "444 102.809",
+                        "444 139.809",
+                        "234 139.809",
+                        "234 211",
+                        "405 211 s",
+                        "454 211 c",
+                        "496.982 220.034 c",
+                        "532 238 s",
+                        "611.982 279.034 c",
+                        "664 360.912 c",
+                        "664 454 s",
+                        "664 547 c",
+                        "611.92 627.842 c",
+                        "531 669 s",
+                        "495.92 686.843 c",
+                        "455 696 c",
+                        "405 696 s",
+                        "197 696",
+                        "197 248",
+                        "90.4357 248",
+                        "90.4357 211",
+                        "197 211",
+                        "197 139.809"
+                      ],
+                      "closed":true
+                    },
+                    {
+                      "nodes":[
+                        "234 248",
+                        "234 659",
+                        "405 659 s",
+                        "447 659 c",
+                        "479.856 652.698 c",
+                        "509 639 s",
+                        "579.858 605.697 c",
+                        "627 534 c",
+                        "627 454 s",
+                        "627 373.096 c",
+                        "580.858 301.303 c",
+                        "510 268 s",
+                        "480.856 254.302 c",
+                        "446 248 c",
+                        "405 248 s"
+                      ],
+                      "closed":true
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon",
             "advanceWidth":740,
             "name":"Body"
@@ -33926,7 +34990,7 @@
               "name":"AccentStack",
               "style":"Custom",
               "horizontal":true,
-              "position":898,
+              "position":-69,
               "delta":100,
               "color":"#9039f2"
             }
