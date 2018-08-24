@@ -591,7 +591,7 @@
         "unicodes":[
           34
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-08-24 20:02:25",
         "layers":[
           {
             "name":"Regular",
@@ -794,7 +794,7 @@
         "unicodes":[
           37
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-08-24 19:56:32",
         "layers":[
           {
             "name":"Regular",
@@ -836,7 +836,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               },
               {
                 "elementData":{
@@ -957,8 +958,8 @@
                         "410.555 -15.4 c",
                         "476.005 17.43 c",
                         "520.245 68.98",
-                        "591.415 -2.19005",
-                        "643.475 -2.19005"
+                        "591.415 -2.19007",
+                        "643.475 -2.19007"
                       ]
                     },
                     {
@@ -988,7 +989,7 @@
         "unicodes":[
           39
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-08-24 20:02:28",
         "layers":[
           {
             "name":"Regular",
@@ -1173,7 +1174,7 @@
         "unicodes":[
           44
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-08-24 20:03:05",
         "layers":[
           {
             "name":"Regular",
@@ -1207,7 +1208,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -1219,7 +1221,7 @@
         "unicodes":[
           45
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -1243,8 +1245,7 @@
                 "transform":{
                   "xOffset":178.25,
                   "yOffset":-2.61
-                },
-                "active":true
+                }
               }
             ],
             "color":"maroon"
@@ -1265,8 +1266,7 @@
               {
                 "elementData":{
                   "href":"period"
-                },
-                "active":true
+                }
               }
             ],
             "color":"maroon"
@@ -1468,8 +1468,8 @@
                         "409.86 317.8 c",
                         "213.86 102.46 c",
                         "154.4 37.09",
-                        "153.98 0.260078",
-                        "586.02 0.260078",
+                        "153.98 0.26009",
+                        "586.02 0.26009",
                         "586.02 37.09"
                       ]
                     }
@@ -1529,7 +1529,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -1634,8 +1635,7 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "color":"maroon"
@@ -2111,7 +2111,8 @@
                 "transform":{
                   "xOffset":-2
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               },
               {
                 "elementData":{
@@ -2155,7 +2156,7 @@
         "unicodes":[
           64
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 20:12:56",
         "layers":[
           {
             "name":"Regular",
@@ -2228,7 +2229,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -2340,364 +2342,12 @@
                               "id":"edge.",
                               "t1":1,
                               "vertex1":{
-                                "id":"vertex.~1",
-                                "point":"369 247.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~4",
-                                "point":"537.00 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"369 247.00"},
-                                  {"point":"459.36 272.15"},
-                                  {"point":"528.03 351.11"},
-                                  {"point":"537.00 446.69"}
-                                ],
-                                "leftIdx":18,
-                                "rightIdx":21,
-                                "paramT":12,
-                                "brect":"369 247.00 168.00 199.69"
-                              }
-                            },
-                            {
-                              "id":"edge.~4",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~17",
-                                "point":"299 239.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.",
-                                "point":"327 240.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"299 239.00"},
-                                  {"point":"310 239.00"},
-                                  {"point":"327 240.00"},
-                                  {"point":"327 240.00"}
-                                ],
-                                "leftIdx":12,
-                                "rightIdx":15,
-                                "paramT":8,
-                                "brect":"299 239.00 28 1"
-                              }
-                            },
-                            {
-                              "id":"edge.~12",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~8",
-                                "point":"389 644"
+                                "id":"vertex.~9",
+                                "point":"117 446.69"
                               },
                               "vertex2":{
                                 "id":"vertex.~19",
-                                "point":"500.40 483.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"389 644"},
-                                  {"point":"456 615.33"},
-                                  {"point":"495.03 553.28"},
-                                  {"point":"500.40 483.69"}
-                                ],
-                                "rightIdx":3,
-                                "brect":"389 483.69 111.40 160.31"
-                              }
-                            },
-                            {
-                              "id":"edge.~3",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex."
-                              },
-                              "vertex2":{
-                                "id":"vertex.~2",
-                                "point":"528 0.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"327 240.00"},
-                                  {"point":"528 0.00"}
-                                ],
-                                "contourIx":9,
-                                "rightIdx":1,
-                                "brect":"327 0.00 201 240"
-                              }
-                            },
-                            {
-                              "id":"edge.~14",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~15",
-                                "point":"117 659.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~7",
-                                "point":"276 659.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"117 659.00"},
-                                  {"point":"276 659.00"}
-                                ],
-                                "contourIx":13,
-                                "rightIdx":1,
-                                "brect":"117 659.00 159 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~1",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~3",
-                                "point":"576 0.00"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~1"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"576 0.00"},
-                                  {"point":"369 247.00"}
-                                ],
-                                "contourIx":11,
-                                "rightIdx":1,
-                                "brect":"369 0.00 207 247"
-                              }
-                            },
-                            {
-                              "id":"edge.~7",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~9",
-                                "point":"309 276.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~13",
-                                "point":"117 276.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"309 276.00"},
-                                  {"point":"117 276.00"}
-                                ],
-                                "contourIx":7,
-                                "rightIdx":1,
-                                "brect":"117 276.00 192 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~10",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~20",
-                                "point":"117 483.69"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~11",
-                                "point":"117 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"117 483.69"},
-                                  {"point":"117 446.69"}
-                                ],
-                                "contourIx":3,
-                                "rightIdx":1,
-                                "brect":"117 446.69 0 37.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~2",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~2"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~3"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"528 0.00"},
-                                  {"point":"576 0.00"}
-                                ],
-                                "contourIx":10,
-                                "rightIdx":1,
-                                "brect":"528 0.00 48 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~22",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~4"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~5",
-                                "point":"637.98 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"537.00 446.69"},
-                                  {"point":"637.98 446.69"}
-                                ],
-                                "contourIx":6,
-                                "rightIdx":1,
-                                "brect":"537.00 446.69 100.97 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~20",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~6",
-                                "point":"637.98 483.69"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~18",
-                                "point":"537.50 483.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"637.98 483.69"},
-                                  {"point":"537.50 483.69"}
-                                ],
-                                "contourIx":1,
-                                "rightIdx":1,
-                                "brect":"537.50 483.69 100.48 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~21",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~5"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~6"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"637.98 446.69"},
-                                  {"point":"637.98 483.69"}
-                                ],
-                                "contourIx":12,
-                                "rightIdx":1,
-                                "brect":"637.98 446.69 0 37"
-                              }
-                            },
-                            {
-                              "id":"edge.~13",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~7"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~8"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"276 659"},
-                                  {"point":"326 659"},
-                                  {"point":"360.20 656.47"},
-                                  {"point":"389 644"}
-                                ],
-                                "leftIdx":32,
-                                "rightIdx":35,
-                                "paramT":22,
-                                "brect":"276 644 113 15"
-                              }
-                            },
-                            {
-                              "id":"edge.~17",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~22",
-                                "point":"638.46 659.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~10",
-                                "point":"638.46 696.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"638.46 659.00"},
-                                  {"point":"638.46 696.00"}
-                                ],
-                                "contourIx":15,
-                                "rightIdx":1,
-                                "brect":"638.46 659.00 0 37"
-                              }
-                            },
-                            {
-                              "id":"edge.~8",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~12",
                                 "point":"499.81 446.69"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~9"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"499.81 446.69"},
-                                  {"point":"489.12 351.48"},
-                                  {"point":"407.74 276"},
-                                  {"point":"309 276.00"}
-                                ],
-                                "leftIdx":6,
-                                "rightIdx":9,
-                                "paramT":4,
-                                "brect":"309 276 190.81 170.69"
-                              }
-                            },
-                            {
-                              "id":"edge.~16",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~10"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~14",
-                                "point":"117.49 696.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"638.46 696.00"},
-                                  {"point":"117.49 696.00"}
-                                ],
-                                "contourIx":16,
-                                "rightIdx":1,
-                                "brect":"117.49 696.00 520.98 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~9",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~11"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~12"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -2711,34 +2361,37 @@
                               }
                             },
                             {
-                              "id":"edge.~6",
+                              "id":"edge.~16",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~13"
+                                "id":"vertex.~4",
+                                "point":"528 0.00"
                               },
                               "vertex2":{
-                                "id":"vertex.~16",
-                                "point":"117 239.00"
+                                "id":"vertex.~17",
+                                "point":"576 0.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
                                 "points":[
-                                  {"point":"117 276.00"},
-                                  {"point":"117 239.00"}
+                                  {"point":"528 0.00"},
+                                  {"point":"576 0.00"}
                                 ],
-                                "contourIx":4,
+                                "contourIx":10,
                                 "rightIdx":1,
-                                "brect":"117 239.00 0 37"
+                                "brect":"528 0.00 48 0"
                               }
                             },
                             {
-                              "id":"edge.~15",
+                              "id":"edge.~6",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~14"
+                                "id":"vertex.~22",
+                                "point":"117.49 696.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~15"
+                                "id":"vertex.~5",
+                                "point":"117 659.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -2752,13 +2405,15 @@
                               }
                             },
                             {
-                              "id":"edge.~5",
+                              "id":"edge.~19",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~16"
+                                "id":"vertex.~3",
+                                "point":"117 239.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~17"
+                                "id":"vertex.~11",
+                                "point":"299 239.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -2772,13 +2427,14 @@
                               }
                             },
                             {
-                              "id":"edge.~19",
+                              "id":"edge.~10",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~18"
+                                "id":"vertex.~14",
+                                "point":"537.50 483.69"
                               },
                               "vertex2":{
-                                "id":"vertex.~21",
+                                "id":"vertex.",
                                 "point":"430 659"
                               },
                               "curveEx":{
@@ -2796,13 +2452,188 @@
                               }
                             },
                             {
-                              "id":"edge.~11",
+                              "id":"edge.~8",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~19"
+                                "id":"vertex.~1",
+                                "point":"638.46 659.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~20"
+                                "id":"vertex.~21",
+                                "point":"638.46 696.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"638.46 659.00"},
+                                  {"point":"638.46 696.00"}
+                                ],
+                                "contourIx":15,
+                                "rightIdx":1,
+                                "brect":"638.46 659.00 0 37"
+                              }
+                            },
+                            {
+                              "id":"edge.~13",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~2",
+                                "point":"537.00 446.69"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~10",
+                                "point":"637.98 446.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"537.00 446.69"},
+                                  {"point":"637.98 446.69"}
+                                ],
+                                "contourIx":6,
+                                "rightIdx":1,
+                                "brect":"537.00 446.69 100.97 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~9",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex."
+                              },
+                              "vertex2":{
+                                "href":"vertex.~1"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"430 659"},
+                                  {"point":"638.46 659.00"}
+                                ],
+                                "contourIx":14,
+                                "rightIdx":1,
+                                "brect":"430 659.00 208.46 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~14",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~18",
+                                "point":"369 247.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~2"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"369 247.00"},
+                                  {"point":"459.36 272.15"},
+                                  {"point":"528.03 351.11"},
+                                  {"point":"537.00 446.69"}
+                                ],
+                                "leftIdx":18,
+                                "rightIdx":21,
+                                "paramT":12,
+                                "brect":"369 247.00 168.00 199.69"
+                              }
+                            },
+                            {
+                              "id":"edge.~20",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~7",
+                                "point":"117 276.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~3"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 276.00"},
+                                  {"point":"117 239.00"}
+                                ],
+                                "contourIx":4,
+                                "rightIdx":1,
+                                "brect":"117 239.00 0 37"
+                              }
+                            },
+                            {
+                              "id":"edge.~3",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~16",
+                                "point":"389 644"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~6",
+                                "point":"500.40 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"389 644"},
+                                  {"point":"456 615.33"},
+                                  {"point":"495.03 553.28"},
+                                  {"point":"500.40 483.69"}
+                                ],
+                                "rightIdx":3,
+                                "brect":"389 483.69 111.40 160.31"
+                              }
+                            },
+                            {
+                              "id":"edge.~17",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~12",
+                                "point":"327 240.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~4"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"327 240.00"},
+                                  {"point":"528 0.00"}
+                                ],
+                                "contourIx":9,
+                                "rightIdx":1,
+                                "brect":"327 0.00 201 240"
+                              }
+                            },
+                            {
+                              "id":"edge.~5",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~5"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~15",
+                                "point":"276 659.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 659.00"},
+                                  {"point":"276 659.00"}
+                                ],
+                                "contourIx":13,
+                                "rightIdx":1,
+                                "brect":"117 659.00 159 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~2",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~6"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~8",
+                                "point":"117 483.69"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -2816,7 +2647,178 @@
                               }
                             },
                             {
+                              "id":"edge.~21",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~20",
+                                "point":"309 276.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~7"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"309 276.00"},
+                                  {"point":"117 276.00"}
+                                ],
+                                "contourIx":7,
+                                "rightIdx":1,
+                                "brect":"117 276.00 192 0"
+                              }
+                            },
+                            {
+                              "id":"edge.~1",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~8"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~9"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 483.69"},
+                                  {"point":"117 446.69"}
+                                ],
+                                "contourIx":3,
+                                "rightIdx":1,
+                                "brect":"117 446.69 0 37.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~12",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~10"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~13",
+                                "point":"637.98 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 446.69"},
+                                  {"point":"637.98 483.69"}
+                                ],
+                                "contourIx":12,
+                                "rightIdx":1,
+                                "brect":"637.98 446.69 0 37"
+                              }
+                            },
+                            {
                               "id":"edge.~18",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~11"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~12"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"299 239.00"},
+                                  {"point":"310 239.00"},
+                                  {"point":"327 240.00"},
+                                  {"point":"327 240.00"}
+                                ],
+                                "leftIdx":12,
+                                "rightIdx":15,
+                                "paramT":8,
+                                "brect":"299 239.00 28 1"
+                              }
+                            },
+                            {
+                              "id":"edge.~11",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~13"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~14"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 483.69"},
+                                  {"point":"537.50 483.69"}
+                                ],
+                                "contourIx":1,
+                                "rightIdx":1,
+                                "brect":"537.50 483.69 100.48 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~4",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~15"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~16"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"276 659"},
+                                  {"point":"326 659"},
+                                  {"point":"360.20 656.47"},
+                                  {"point":"389 644"}
+                                ],
+                                "leftIdx":32,
+                                "rightIdx":35,
+                                "paramT":22,
+                                "brect":"276 644 113 15"
+                              }
+                            },
+                            {
+                              "id":"edge.~15",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~17"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~18"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"576 0.00"},
+                                  {"point":"369 247.00"}
+                                ],
+                                "contourIx":11,
+                                "rightIdx":1,
+                                "brect":"369 0.00 207 247"
+                              }
+                            },
+                            {
+                              "id":"edge.~22",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~19"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~20"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"499.81 446.69"},
+                                  {"point":"489.12 351.48"},
+                                  {"point":"407.74 276"},
+                                  {"point":"309 276.00"}
+                                ],
+                                "leftIdx":6,
+                                "rightIdx":9,
+                                "paramT":4,
+                                "brect":"309 276 190.81 170.69"
+                              }
+                            },
+                            {
+                              "id":"edge.~7",
                               "t1":1,
                               "vertex1":{
                                 "href":"vertex.~21"
@@ -2827,12 +2829,12 @@
                               "curveEx":{
                                 "pointsCount":2,
                                 "points":[
-                                  {"point":"430 659"},
-                                  {"point":"638.46 659.00"}
+                                  {"point":"638.46 696.00"},
+                                  {"point":"117.49 696.00"}
                                 ],
-                                "contourIx":14,
+                                "contourIx":16,
                                 "rightIdx":1,
-                                "brect":"430 659.00 208.46 0.00"
+                                "brect":"117.49 696.00 520.98 0"
                               }
                             }
                           ],
@@ -2990,364 +2992,12 @@
                               "id":"edge.~23",
                               "t1":1,
                               "vertex1":{
-                                "id":"vertex.~24",
-                                "point":"369 247.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~27",
-                                "point":"537.00 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"369 247.00"},
-                                  {"point":"459.36 272.15"},
-                                  {"point":"528.03 351.11"},
-                                  {"point":"537.00 446.69"}
-                                ],
-                                "leftIdx":18,
-                                "rightIdx":21,
-                                "paramT":12,
-                                "brect":"369 247.00 168.00 199.69"
-                              }
-                            },
-                            {
-                              "id":"edge.~27",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~40",
-                                "point":"299 239.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~23",
-                                "point":"327 240.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"299 239.00"},
-                                  {"point":"310 239.00"},
-                                  {"point":"327 240.00"},
-                                  {"point":"327 240.00"}
-                                ],
-                                "leftIdx":12,
-                                "rightIdx":15,
-                                "paramT":8,
-                                "brect":"299 239.00 28 1"
-                              }
-                            },
-                            {
-                              "id":"edge.~35",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~31",
-                                "point":"389 644"
+                                "id":"vertex.~32",
+                                "point":"117 446.69"
                               },
                               "vertex2":{
                                 "id":"vertex.~42",
-                                "point":"500.40 483.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"389 644"},
-                                  {"point":"456 615.33"},
-                                  {"point":"495.03 553.28"},
-                                  {"point":"500.40 483.69"}
-                                ],
-                                "rightIdx":3,
-                                "brect":"389 483.69 111.40 160.31"
-                              }
-                            },
-                            {
-                              "id":"edge.~26",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~23"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~25",
-                                "point":"528 0.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"327 240.00"},
-                                  {"point":"528 0.00"}
-                                ],
-                                "contourIx":9,
-                                "rightIdx":1,
-                                "brect":"327 0.00 201 240"
-                              }
-                            },
-                            {
-                              "id":"edge.~37",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~38",
-                                "point":"117 659.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~30",
-                                "point":"276 659.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"117 659.00"},
-                                  {"point":"276 659.00"}
-                                ],
-                                "contourIx":13,
-                                "rightIdx":1,
-                                "brect":"117 659.00 159 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~24",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~26",
-                                "point":"576 0.00"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~24"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"576 0.00"},
-                                  {"point":"369 247.00"}
-                                ],
-                                "contourIx":11,
-                                "rightIdx":1,
-                                "brect":"369 0.00 207 247"
-                              }
-                            },
-                            {
-                              "id":"edge.~30",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~32",
-                                "point":"309 276.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~36",
-                                "point":"117 276.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"309 276.00"},
-                                  {"point":"117 276.00"}
-                                ],
-                                "contourIx":7,
-                                "rightIdx":1,
-                                "brect":"117 276.00 192 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~33",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~43",
-                                "point":"117 483.69"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~34",
-                                "point":"117 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"117 483.69"},
-                                  {"point":"117 446.69"}
-                                ],
-                                "contourIx":3,
-                                "rightIdx":1,
-                                "brect":"117 446.69 0 37.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~25",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~25"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~26"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"528 0.00"},
-                                  {"point":"576 0.00"}
-                                ],
-                                "contourIx":10,
-                                "rightIdx":1,
-                                "brect":"528 0.00 48 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~45",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~27"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~28",
-                                "point":"637.98 446.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"537.00 446.69"},
-                                  {"point":"637.98 446.69"}
-                                ],
-                                "contourIx":6,
-                                "rightIdx":1,
-                                "brect":"537.00 446.69 100.97 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~43",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~29",
-                                "point":"637.98 483.69"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~41",
-                                "point":"537.50 483.69"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"637.98 483.69"},
-                                  {"point":"537.50 483.69"}
-                                ],
-                                "contourIx":1,
-                                "rightIdx":1,
-                                "brect":"537.50 483.69 100.48 0.00"
-                              }
-                            },
-                            {
-                              "id":"edge.~44",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~28"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~29"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"637.98 446.69"},
-                                  {"point":"637.98 483.69"}
-                                ],
-                                "contourIx":12,
-                                "rightIdx":1,
-                                "brect":"637.98 446.69 0 37"
-                              }
-                            },
-                            {
-                              "id":"edge.~36",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~30"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~31"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"276 659"},
-                                  {"point":"326 659"},
-                                  {"point":"360.20 656.47"},
-                                  {"point":"389 644"}
-                                ],
-                                "leftIdx":32,
-                                "rightIdx":35,
-                                "paramT":22,
-                                "brect":"276 644 113 15"
-                              }
-                            },
-                            {
-                              "id":"edge.~40",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~45",
-                                "point":"638.46 659.00"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~33",
-                                "point":"638.46 696.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"638.46 659.00"},
-                                  {"point":"638.46 696.00"}
-                                ],
-                                "contourIx":15,
-                                "rightIdx":1,
-                                "brect":"638.46 659.00 0 37"
-                              }
-                            },
-                            {
-                              "id":"edge.~31",
-                              "t1":1,
-                              "vertex1":{
-                                "id":"vertex.~35",
                                 "point":"499.81 446.69"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~32"
-                              },
-                              "curveEx":{
-                                "pointsCount":4,
-                                "points":[
-                                  {"point":"499.81 446.69"},
-                                  {"point":"489.12 351.48"},
-                                  {"point":"407.74 276"},
-                                  {"point":"309 276.00"}
-                                ],
-                                "leftIdx":6,
-                                "rightIdx":9,
-                                "paramT":4,
-                                "brect":"309 276 190.81 170.69"
-                              }
-                            },
-                            {
-                              "id":"edge.~39",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~33"
-                              },
-                              "vertex2":{
-                                "id":"vertex.~37",
-                                "point":"117.49 696.00"
-                              },
-                              "curveEx":{
-                                "pointsCount":2,
-                                "points":[
-                                  {"point":"638.46 696.00"},
-                                  {"point":"117.49 696.00"}
-                                ],
-                                "contourIx":16,
-                                "rightIdx":1,
-                                "brect":"117.49 696.00 520.98 0"
-                              }
-                            },
-                            {
-                              "id":"edge.~32",
-                              "t1":1,
-                              "vertex1":{
-                                "href":"vertex.~34"
-                              },
-                              "vertex2":{
-                                "href":"vertex.~35"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -3361,34 +3011,37 @@
                               }
                             },
                             {
-                              "id":"edge.~29",
+                              "id":"edge.~39",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~36"
+                                "id":"vertex.~27",
+                                "point":"528 0.00"
                               },
                               "vertex2":{
-                                "id":"vertex.~39",
-                                "point":"117 239.00"
+                                "id":"vertex.~40",
+                                "point":"576 0.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
                                 "points":[
-                                  {"point":"117 276.00"},
-                                  {"point":"117 239.00"}
+                                  {"point":"528 0.00"},
+                                  {"point":"576 0.00"}
                                 ],
-                                "contourIx":4,
+                                "contourIx":10,
                                 "rightIdx":1,
-                                "brect":"117 239.00 0 37"
+                                "brect":"528 0.00 48 0"
                               }
                             },
                             {
-                              "id":"edge.~38",
+                              "id":"edge.~29",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~37"
+                                "id":"vertex.~45",
+                                "point":"117.49 696.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~38"
+                                "id":"vertex.~28",
+                                "point":"117 659.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -3402,13 +3055,15 @@
                               }
                             },
                             {
-                              "id":"edge.~28",
+                              "id":"edge.~42",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~39"
+                                "id":"vertex.~26",
+                                "point":"117 239.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~40"
+                                "id":"vertex.~34",
+                                "point":"299 239.00"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -3422,13 +3077,14 @@
                               }
                             },
                             {
-                              "id":"edge.~42",
+                              "id":"edge.~33",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~41"
+                                "id":"vertex.~37",
+                                "point":"537.50 483.69"
                               },
                               "vertex2":{
-                                "id":"vertex.~44",
+                                "id":"vertex.~23",
                                 "point":"430 659"
                               },
                               "curveEx":{
@@ -3446,13 +3102,188 @@
                               }
                             },
                             {
-                              "id":"edge.~34",
+                              "id":"edge.~31",
                               "t1":1,
                               "vertex1":{
-                                "href":"vertex.~42"
+                                "id":"vertex.~24",
+                                "point":"638.46 659.00"
                               },
                               "vertex2":{
-                                "href":"vertex.~43"
+                                "id":"vertex.~44",
+                                "point":"638.46 696.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"638.46 659.00"},
+                                  {"point":"638.46 696.00"}
+                                ],
+                                "contourIx":15,
+                                "rightIdx":1,
+                                "brect":"638.46 659.00 0 37"
+                              }
+                            },
+                            {
+                              "id":"edge.~36",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~25",
+                                "point":"537.00 446.69"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~33",
+                                "point":"637.98 446.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"537.00 446.69"},
+                                  {"point":"637.98 446.69"}
+                                ],
+                                "contourIx":6,
+                                "rightIdx":1,
+                                "brect":"537.00 446.69 100.97 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~32",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~23"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~24"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"430 659"},
+                                  {"point":"638.46 659.00"}
+                                ],
+                                "contourIx":14,
+                                "rightIdx":1,
+                                "brect":"430 659.00 208.46 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~37",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~41",
+                                "point":"369 247.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~25"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"369 247.00"},
+                                  {"point":"459.36 272.15"},
+                                  {"point":"528.03 351.11"},
+                                  {"point":"537.00 446.69"}
+                                ],
+                                "leftIdx":18,
+                                "rightIdx":21,
+                                "paramT":12,
+                                "brect":"369 247.00 168.00 199.69"
+                              }
+                            },
+                            {
+                              "id":"edge.~43",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~30",
+                                "point":"117 276.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~26"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 276.00"},
+                                  {"point":"117 239.00"}
+                                ],
+                                "contourIx":4,
+                                "rightIdx":1,
+                                "brect":"117 239.00 0 37"
+                              }
+                            },
+                            {
+                              "id":"edge.~26",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~39",
+                                "point":"389 644"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~29",
+                                "point":"500.40 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"389 644"},
+                                  {"point":"456 615.33"},
+                                  {"point":"495.03 553.28"},
+                                  {"point":"500.40 483.69"}
+                                ],
+                                "rightIdx":3,
+                                "brect":"389 483.69 111.40 160.31"
+                              }
+                            },
+                            {
+                              "id":"edge.~40",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~35",
+                                "point":"327 240.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~27"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"327 240.00"},
+                                  {"point":"528 0.00"}
+                                ],
+                                "contourIx":9,
+                                "rightIdx":1,
+                                "brect":"327 0.00 201 240"
+                              }
+                            },
+                            {
+                              "id":"edge.~28",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~28"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~38",
+                                "point":"276 659.00"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 659.00"},
+                                  {"point":"276 659.00"}
+                                ],
+                                "contourIx":13,
+                                "rightIdx":1,
+                                "brect":"117 659.00 159 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~25",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~29"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~31",
+                                "point":"117 483.69"
                               },
                               "curveEx":{
                                 "pointsCount":2,
@@ -3466,7 +3297,178 @@
                               }
                             },
                             {
+                              "id":"edge.~44",
+                              "t1":1,
+                              "vertex1":{
+                                "id":"vertex.~43",
+                                "point":"309 276.00"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~30"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"309 276.00"},
+                                  {"point":"117 276.00"}
+                                ],
+                                "contourIx":7,
+                                "rightIdx":1,
+                                "brect":"117 276.00 192 0"
+                              }
+                            },
+                            {
+                              "id":"edge.~24",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~31"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~32"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"117 483.69"},
+                                  {"point":"117 446.69"}
+                                ],
+                                "contourIx":3,
+                                "rightIdx":1,
+                                "brect":"117 446.69 0 37.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~35",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~33"
+                              },
+                              "vertex2":{
+                                "id":"vertex.~36",
+                                "point":"637.98 483.69"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 446.69"},
+                                  {"point":"637.98 483.69"}
+                                ],
+                                "contourIx":12,
+                                "rightIdx":1,
+                                "brect":"637.98 446.69 0 37"
+                              }
+                            },
+                            {
                               "id":"edge.~41",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~34"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~35"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"299 239.00"},
+                                  {"point":"310 239.00"},
+                                  {"point":"327 240.00"},
+                                  {"point":"327 240.00"}
+                                ],
+                                "leftIdx":12,
+                                "rightIdx":15,
+                                "paramT":8,
+                                "brect":"299 239.00 28 1"
+                              }
+                            },
+                            {
+                              "id":"edge.~34",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~36"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~37"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"637.98 483.69"},
+                                  {"point":"537.50 483.69"}
+                                ],
+                                "contourIx":1,
+                                "rightIdx":1,
+                                "brect":"537.50 483.69 100.48 0.00"
+                              }
+                            },
+                            {
+                              "id":"edge.~27",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~38"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~39"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"276 659"},
+                                  {"point":"326 659"},
+                                  {"point":"360.20 656.47"},
+                                  {"point":"389 644"}
+                                ],
+                                "leftIdx":32,
+                                "rightIdx":35,
+                                "paramT":22,
+                                "brect":"276 644 113 15"
+                              }
+                            },
+                            {
+                              "id":"edge.~38",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~40"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~41"
+                              },
+                              "curveEx":{
+                                "pointsCount":2,
+                                "points":[
+                                  {"point":"576 0.00"},
+                                  {"point":"369 247.00"}
+                                ],
+                                "contourIx":11,
+                                "rightIdx":1,
+                                "brect":"369 0.00 207 247"
+                              }
+                            },
+                            {
+                              "id":"edge.~45",
+                              "t1":1,
+                              "vertex1":{
+                                "href":"vertex.~42"
+                              },
+                              "vertex2":{
+                                "href":"vertex.~43"
+                              },
+                              "curveEx":{
+                                "pointsCount":4,
+                                "points":[
+                                  {"point":"499.81 446.69"},
+                                  {"point":"489.12 351.48"},
+                                  {"point":"407.74 276"},
+                                  {"point":"309 276.00"}
+                                ],
+                                "leftIdx":6,
+                                "rightIdx":9,
+                                "paramT":4,
+                                "brect":"309 276 190.81 170.69"
+                              }
+                            },
+                            {
+                              "id":"edge.~30",
                               "t1":1,
                               "vertex1":{
                                 "href":"vertex.~44"
@@ -3477,12 +3479,12 @@
                               "curveEx":{
                                 "pointsCount":2,
                                 "points":[
-                                  {"point":"430 659"},
-                                  {"point":"638.46 659.00"}
+                                  {"point":"638.46 696.00"},
+                                  {"point":"117.49 696.00"}
                                 ],
-                                "contourIx":14,
+                                "contourIx":16,
                                 "rightIdx":1,
-                                "brect":"430 659.00 208.46 0.00"
+                                "brect":"117.49 696.00 520.98 0"
                               }
                             }
                           ],
@@ -3955,7 +3957,7 @@
         "unicodes":[
           71
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 20:07:32",
         "layers":[
           {
             "name":"Regular",
@@ -4035,8 +4037,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -4705,7 +4706,7 @@
                         "207.555 -18.38 c",
                         "368.145 -18.38 s",
                         "420.665 -18.38 c",
-                        "471.165 -3.22997 c",
+                        "471.165 -3.22996 c",
                         "513.585 22.02",
                         "606.505 -68.88"
                       ]
@@ -6077,7 +6078,7 @@
         "unicodes":[
           102
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:04",
         "layers":[
           {
             "name":"Regular",
@@ -6112,8 +6113,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -6441,8 +6441,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -6880,7 +6879,7 @@
                         "503.95 12.41 c",
                         "554.18 55.52",
                         "631.63 -33.28",
-                        "659.37 -9.06997"
+                        "659.37 -9.06996"
                       ]
                     },
                     {
@@ -7052,8 +7051,7 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -7632,8 +7630,8 @@
                         "351.601 83.4417 c",
                         "301.275 33.141 c",
                         "239.437 33.141",
-                        "239.437 -3.6824",
-                        "321.602 -3.6824 c",
+                        "239.437 -3.68241",
+                        "321.602 -3.68241 c",
                         "388.424 63.1643 c",
                         "388.424 145.305 s",
                         "388.424 305.241 s",
@@ -8088,7 +8086,7 @@
         "unicodes":[
           192
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8205,7 +8203,7 @@
         "unicodes":[
           193
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8293,7 +8291,7 @@
         "unicodes":[
           194
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8400,7 +8398,7 @@
         "unicodes":[
           195
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8521,7 +8519,7 @@
         "unicodes":[
           196
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8710,7 +8708,7 @@
         "unicodes":[
           197
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8839,7 +8837,7 @@
         "unicodes":[
           199
         ],
-        "lastModified":"2018-08-14 11:18:45",
+        "lastModified":"2018-08-24 20:05:51",
         "mark":241,
         "layers":[
           {
@@ -8898,7 +8896,7 @@
         "unicodes":[
           214
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -8995,7 +8993,7 @@
         "unicodes":[
           220
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -9051,7 +9049,7 @@
         "unicodes":[
           247
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 20:07:14",
         "layers":[
           {
             "name":"Regular",
@@ -9069,7 +9067,11 @@
                       ]
                     }
                   ]
-                }
+                },
+                "transform":{
+                  "yOffset":108
+                },
+                "active":true
               },
               {
                 "elementData":{
@@ -9107,6 +9109,9 @@
                       ]
                     }
                   ]
+                },
+                "transform":{
+                  "yOffset":108
                 }
               },
               {
@@ -9145,6 +9150,9 @@
                       ]
                     }
                   ]
+                },
+                "transform":{
+                  "yOffset":108
                 }
               }
             ],
@@ -9435,7 +9443,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -9555,7 +9564,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               },
               {
                 "elementData":{
@@ -9575,7 +9585,7 @@
         "unicodes":[
           8364
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:47:03",
         "layers":[
           {
             "name":"Regular",
@@ -9588,15 +9598,14 @@
                       "nodes":[
                         "164.378 251.636 s",
                         "164.378 108.762 c",
-                        "280.593 -7.47756 c",
-                        "423.468 -7.47756 s",
-                        "525.763 -7.47756 c",
+                        "280.593 -7.47755 c",
+                        "423.468 -7.47755 s",
+                        "525.763 -7.47755 c",
                         "618.779 53.06 c",
                         "660.389 146.739",
                         "626.733 161.689",
                         "591.014 81.2913 c",
                         "511.23 29.3458 c",
-                        "423.468 29.3458",
                         "423.468 29.3458",
                         "300.919 29.3458 c",
                         "201.202 129.063 c",
@@ -9624,17 +9633,18 @@
                         "164.378 597.555 c",
                         "164.378 454.656 s",
                         "164.378 442.774",
-                        "77.8188 442.774",
-                        "77.8188 405.951",
+                        "81.8188 442.774",
+                        "81.8188 405.951",
                         "164.378 405.951",
                         "164.378 301.618",
-                        "77.8188 301.618",
-                        "77.8188 264.794",
+                        "81.8188 301.618",
+                        "81.8188 264.794",
                         "164.378 264.794"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -10658,10 +10668,11 @@
         "unicodes":[
           61455
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:59:41",
         "layers":[
           {
             "name":"Regular",
+            "note":"This is alternate O.",
             "advanceWidth":740,
             "elements":[
               {
@@ -10691,7 +10702,8 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"This is alternate O."
       },
       {
         "name":"exclam.alt1",
@@ -11147,7 +11159,7 @@
         "unicodes":[
           252
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11200,7 +11212,7 @@
         "unicodes":[
           246
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -11538,7 +11550,7 @@
         "unicodes":[
           200
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11603,7 +11615,7 @@
         "unicodes":[
           201
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -11667,7 +11679,7 @@
         "unicodes":[
           202
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11729,7 +11741,7 @@
         "unicodes":[
           203
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11794,7 +11806,7 @@
         "unicodes":[
           204
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11847,7 +11859,7 @@
         "unicodes":[
           205
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11900,7 +11912,7 @@
         "unicodes":[
           206
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -11950,7 +11962,7 @@
         "unicodes":[
           207
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12003,7 +12015,7 @@
         "unicodes":[
           209
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12052,7 +12064,7 @@
         "unicodes":[
           210
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12111,7 +12123,7 @@
         "unicodes":[
           211
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12170,7 +12182,7 @@
         "unicodes":[
           212
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12226,7 +12238,7 @@
         "unicodes":[
           213
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12285,7 +12297,7 @@
         "unicodes":[
           217
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12341,7 +12353,7 @@
         "unicodes":[
           218
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12450,7 +12462,7 @@
         "unicodes":[
           221
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12583,7 +12595,7 @@
         "unicodes":[
           225
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12636,7 +12648,7 @@
         "unicodes":[
           226
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12686,7 +12698,7 @@
         "unicodes":[
           227
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12739,7 +12751,7 @@
         "unicodes":[
           228
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12792,7 +12804,7 @@
         "unicodes":[
           229
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -12842,7 +12854,7 @@
         "unicodes":[
           232
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -12897,7 +12909,7 @@
         "unicodes":[
           233
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -12952,7 +12964,7 @@
         "unicodes":[
           234
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -13004,7 +13016,7 @@
         "unicodes":[
           235
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -13268,7 +13280,7 @@
         "unicodes":[
           242
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -13338,7 +13350,7 @@
         "unicodes":[
           243
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13409,7 +13421,7 @@
         "unicodes":[
           244
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13477,7 +13489,7 @@
         "unicodes":[
           245
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -13611,7 +13623,7 @@
         "unicodes":[
           249
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13664,7 +13676,7 @@
         "unicodes":[
           250
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13717,7 +13729,7 @@
         "unicodes":[
           251
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13767,7 +13779,7 @@
         "unicodes":[
           253
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -13816,7 +13828,7 @@
         "unicodes":[
           255
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -14273,7 +14285,7 @@
         "unicodes":[
           241
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -14342,7 +14354,7 @@
                         "25.625 406.76 s",
                         "25.625 289.24 s",
                         "25.625 126.501 c",
-                        "155.915 0.164267 c",
+                        "155.915 0.164259 c",
                         "329.339 0",
                         "329.339 182.81",
                         "256.915 182.974 c",
@@ -14461,7 +14473,7 @@
         "unicodes":[
           258
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -14518,7 +14530,7 @@
                   "href":"brevecomb"
                 },
                 "transform":{
-                  "xOffset":0.01
+                  "xOffset":0.02
                 },
                 "locked":true
               }
@@ -14549,7 +14561,7 @@
         "unicodes":[
           259
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -14567,7 +14579,7 @@
                   "href":"brevecomb"
                 },
                 "transform":{
-                  "xOffset":0.01
+                  "xOffset":0.02
                 },
                 "locked":true
               }
@@ -15797,7 +15809,7 @@
         "unicodes":[
           256
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -15882,7 +15894,7 @@
         "unicodes":[
           257
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -16136,7 +16148,7 @@
         "unicodes":[
           314
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "layers":[
           {
             "name":"Regular",
@@ -17496,7 +17508,7 @@
         "unicodes":[
           273
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -17824,7 +17836,7 @@
         "unicodes":[
           176
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 20:17:36",
         "layers":[
           {
             "name":"Regular",
@@ -17866,7 +17878,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -18831,13 +18844,57 @@
         "unicodes":[
           170
         ],
-        "lastModified":"2018-08-14 14:01:41",
-        "mark":121,
+        "lastModified":"2018-08-24 20:22:22",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "515.255 639.84",
+                        "482.555 682.6 c",
+                        "431.195 710.36 c",
+                        "373.335 710.36 s",
+                        "274.775 710.36 c",
+                        "194.595 630.16 c",
+                        "194.595 531.62 s",
+                        "194.595 433.08 c",
+                        "274.795 352.88 c",
+                        "373.335 352.88 s",
+                        "431.195 352.88 c",
+                        "482.555 380.65 c",
+                        "515.255 423.41",
+                        "515.255 361.67",
+                        "552.075 361.67",
+                        "552.075 696.471",
+                        "515.255 696.471"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "373.335 389.68 s",
+                        "295.075 389.68 c",
+                        "231.415 453.36 c",
+                        "231.415 531.6 s",
+                        "231.415 609.84 c",
+                        "295.095 673.52 c",
+                        "373.335 673.52 s",
+                        "451.575 673.52 c",
+                        "515.255 609.84 c",
+                        "515.255 531.6 s",
+                        "515.255 453.36 c",
+                        "451.575 389.68 c"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "guidelines":[
               {
                 "horizontal":true,
@@ -19123,13 +19180,55 @@
         "unicodes":[
           186
         ],
-        "lastModified":"2018-08-14 14:01:41",
-        "mark":121,
+        "lastModified":"2018-08-24 20:22:05",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-219.336 531.779 s",
+                        "-219.336 433.321 c",
+                        "-139.573 353.558 c",
+                        "-41.1151 353.558 s",
+                        "57.3426 353.558 c",
+                        "137.106 433.321 c",
+                        "137.106 531.779 s",
+                        "137.106 630.237 c",
+                        "57.3426 710 c",
+                        "-41.1151 710 s",
+                        "-139.573 710 c",
+                        "-219.336 630.237 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "-41.0774 391.679 s",
+                        "-119.058 391.679 c",
+                        "-182.499 455.12 c",
+                        "-182.499 531.779 s",
+                        "-182.499 609.759 c",
+                        "-119.058 671.879 c",
+                        "-41.0774 671.879",
+                        "35.5813 671.879 c",
+                        "99.0229 609.759 c",
+                        "99.0229 531.779 s",
+                        "99.0229 453.799 c",
+                        "35.5813 391.679 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":412.12
+                },
+                "active":true
+              }
+            ],
             "guidelines":[
               {
                 "horizontal":true,
@@ -19300,7 +19399,7 @@
         "unicodes":[
           208
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -19332,7 +19431,7 @@
         "unicodes":[
           240
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -19449,7 +19548,7 @@
         "unicodes":[
           8230
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:59:49",
         "mark":1,
         "layers":[
           {
@@ -19624,7 +19723,7 @@
         "unicodes":[
           8722
         ],
-        "lastModified":"2018-08-23 11:21:00",
+        "lastModified":"2018-08-24 20:07:06",
         "layers":[
           {
             "name":"Regular",
@@ -20488,29 +20587,78 @@
         "unicodes":[
           700
         ],
-        "lastModified":"2018-08-14 14:01:41",
-        "mark":121,
+        "lastModified":"2018-08-24 20:05:27",
+        "mark":1,
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
+            "note":"I'm not sure about this glyph. What's the difference between quote and this one? ",
+            "mark":1,
             "advanceWidth":740,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "356.5 402",
+                        "447.5 559",
+                        "447.5 560",
+                        "455.5 573 c",
+                        "460.5 588 c",
+                        "460.5 605",
+                        "460.5 655 c",
+                        "419.5 696 c",
+                        "369.5 696 s",
+                        "319.5 696 c",
+                        "278.5 655 c",
+                        "278.5 605 s",
+                        "278.5 555 c",
+                        "319.5 514 c",
+                        "369.5 514 s",
+                        "373.5 514 c",
+                        "376.5 515 c",
+                        "379.5 515",
+                        "313.5 402"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"I'm not sure about this glyph. What's the difference between quote and this one? "
       },
       {
         "name":"primemod",
         "unicodes":[
           697
         ],
-        "lastModified":"2018-08-14 14:01:41",
-        "mark":121,
+        "lastModified":"2018-08-24 20:01:23",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "369.79 405",
+                        "454 695.68",
+                        "316.5 695.68",
+                        "276.5 405"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon"
           }
         ]
@@ -21784,7 +21932,7 @@
                       "nodes":[
                         "346.504 -164.92",
                         "422.075 -15.6684",
-                        "389.088 0.33165",
+                        "389.088 0.331604",
                         "313.504 -147.92"
                       ]
                     }
@@ -21828,7 +21976,7 @@
                       "nodes":[
                         "323.324 -175",
                         "398.984 -25.5749",
-                        "365.997 -9.57492",
+                        "365.997 -9.57491",
                         "290.324 -158"
                       ]
                     }
@@ -25533,7 +25681,7 @@
         "unicodes":[
           7843
         ],
-        "lastModified":"2018-08-23 13:41:50",
+        "lastModified":"2018-08-24 19:49:17",
         "mark":241,
         "layers":[
           {
@@ -32185,7 +32333,7 @@
         "unicodes":[
           8224
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -32254,35 +32402,145 @@
         "unicodes":[
           8240
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:58:23",
+        "mark":1,
         "layers":[
           {
             "name":"Regular",
+            "mark":1,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
-                  "href":"zero"
+                  "contours":[
+                    {
+                      "nodes":[
+                        "218.09 125.98 s",
+                        "218.09 48.45 c",
+                        "281.13 -14.59 c",
+                        "358.66 -14.59 s",
+                        "436.18 -14.59 c",
+                        "499.22 48.45 c",
+                        "499.22 125.98 s",
+                        "499.22 203.5 c",
+                        "436.16 266.54 c",
+                        "358.66 266.54 s",
+                        "281.16 266.54 c",
+                        "218.09 203.5 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "358.66 22.26 s",
+                        "301.46 22.26 c",
+                        "254.91 68.8 c",
+                        "254.91 126 s",
+                        "254.91 183.2 c",
+                        "301.46 229.74 c",
+                        "358.66 229.74 s",
+                        "415.85 229.74 c",
+                        "462.4 183.2 c",
+                        "462.4 126 s",
+                        "462.4 68.8 c",
+                        "415.85 22.26 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "536.87 126.004 s",
+                        "536.87 48.4741 c",
+                        "599.91 -14.5659 c",
+                        "677.44 -14.5659 s",
+                        "754.96 -14.5659 c",
+                        "818 48.4741 c",
+                        "818 126.004 s",
+                        "818 203.524 c",
+                        "754.94 266.564 c",
+                        "677.44 266.564 s",
+                        "599.94 266.564 c",
+                        "536.87 203.524 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "677.44 22.2841 s",
+                        "620.24 22.2841 c",
+                        "573.69 68.8241 c",
+                        "573.69 126.024 s",
+                        "573.69 183.224 c",
+                        "620.24 229.764 c",
+                        "677.44 229.764 s",
+                        "734.63 229.764 c",
+                        "781.18 183.224 c",
+                        "781.18 126.024 s",
+                        "781.18 68.8241 c",
+                        "734.63 22.2841 c"
+                      ]
+                    }
+                  ]
                 },
-                "locked":true
+                "transform":{
+                  "xOffset":-80
+                }
               },
               {
                 "elementData":{
-                  "href":"slash"
+                  "contours":[
+                    {
+                      "nodes":[
+                        "92.97 175.26",
+                        "119 149.22",
+                        "582.98 613.19",
+                        "556.94 639.23"
+                      ]
+                    }
+                  ]
                 },
-                "locked":true
+                "transform":{
+                  "xOffset":-80
+                },
+                "active":true
               },
               {
                 "elementData":{
-                  "href":"zero"
+                  "contours":[
+                    {
+                      "nodes":[
+                        "226.35 419.97 s",
+                        "303.85 419.97 c",
+                        "366.91 483.02 c",
+                        "366.91 560.54 s",
+                        "366.91 638.07 c",
+                        "303.87 701.11 c",
+                        "226.35 701.11 s",
+                        "148.82 701.11 c",
+                        "85.78 638.07 c",
+                        "85.78 560.54 s",
+                        "85.78 483.02 c",
+                        "148.85 419.97 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "122.6 560.52 s",
+                        "122.6 617.72 c",
+                        "169.15 664.26 c",
+                        "226.35 664.26 s",
+                        "283.55 664.26 c",
+                        "330.09 617.72 c",
+                        "330.09 560.52 s",
+                        "330.09 503.32 c",
+                        "283.55 456.77 c",
+                        "226.35 456.77 s",
+                        "169.15 456.77 c",
+                        "122.6 503.32 c"
+                      ]
+                    }
+                  ]
                 },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"zero"
-                },
-                "locked":true
+                "transform":{
+                  "xOffset":-80
+                }
               }
             ],
             "color":"maroon"
@@ -32411,7 +32669,7 @@
         "unicodes":[
           8355
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:53:12",
         "layers":[
           {
             "name":"Regular",
@@ -32419,44 +32677,31 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"hyphen"
-                },
-                "transform":{
-                  "xOffset":178.25,
-                  "yOffset":-2.61
-                },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "name":"F.1",
                   "contours":[
                     {
                       "nodes":[
-                        "290 0",
-                        "290 238",
-                        "546 238",
-                        "546 415",
-                        "290 415",
-                        "290 520",
-                        "641 520",
-                        "641 696",
-                        "118 696",
-                        "118 0"
+                        "607.5 659",
+                        "607.5 696",
+                        "158.5 696",
+                        "158.5 0",
+                        "195.5 0",
+                        "195.5 330",
+                        "525.5 330",
+                        "525.5 367",
+                        "195.5 367",
+                        "195.5 659"
                       ]
-                    }
-                  ],
-                  "guidelines":[
+                    },
                     {
-                      "name":"Center",
-                      "style":"Shape",
-                      "vertical":true,
-                      "position":383,
-                      "delta":912
+                      "nodes":[
+                        "79.1872 186.139",
+                        "79.1872 149.139",
+                        "418.187 149.139",
+                        "418.187 186.139"
+                      ]
                     }
                   ]
                 },
-                "locked":true,
                 "active":true
               }
             ],
@@ -32469,7 +32714,7 @@
         "unicodes":[
           8356
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:59",
         "layers":[
           {
             "name":"Regular",
@@ -32479,17 +32724,8 @@
                 "elementData":{
                   "href":"sterling"
                 },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"hyphen"
-                },
-                "transform":{
-                  "xOffset":178.25,
-                  "yOffset":-2.61
-                },
-                "locked":true
+                "locked":true,
+                "active":true
               }
             ],
             "color":"maroon"
@@ -32501,7 +32737,7 @@
         "unicodes":[
           8358
         ],
-        "lastModified":"2018-08-23 11:13:18",
+        "lastModified":"2018-08-24 19:46:21",
         "layers":[
           {
             "name":"Regular",
@@ -32512,49 +32748,49 @@
                   "contours":[
                     {
                       "nodes":[
+                        "721.484 241",
+                        "721.484 277",
+                        "641 277",
+                        "641 421.649",
+                        "721 421.649",
+                        "721 457.649",
+                        "641 457.649",
+                        "641 696",
                         "604 696",
-                        "604 224",
+                        "604 457.649",
+                        "368.371 457.649",
                         "128 696",
                         "89 696",
+                        "89 458",
+                        "9 458",
+                        "9 422",
+                        "89 422",
+                        "89 277",
+                        "9 277",
+                        "9 241",
+                        "89 241",
                         "89 0",
                         "126 0",
-                        "126 648",
+                        "126 241",
+                        "534.71 241",
                         "604 172",
                         "604 0",
                         "641 0",
-                        "641 696"
+                        "641 241"
                       ]
                     },
                     {
                       "nodes":[
-                        "19 422",
-                        "115.981 422",
-                        "115.981 458",
-                        "19 458"
+                        "126 277",
+                        "126 648",
+                        "498.559 277"
                       ]
                     },
                     {
                       "nodes":[
-                        "19 241",
-                        "541.503 241",
-                        "541.503 277",
-                        "19 277"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "614.503 241",
-                        "711.484 241",
-                        "711.484 277",
-                        "614.503 277"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "358.674 421.649",
-                        "711 421.649",
-                        "711 457.649",
-                        "358.674 457.649"
+                        "604 224",
+                        "404.676 421.649",
+                        "604 421.649"
                       ]
                     }
                   ]
@@ -32593,7 +32829,7 @@
         "unicodes":[
           8361
         ],
-        "lastModified":"2018-08-23 11:14:59",
+        "lastModified":"2018-08-24 19:46:40",
         "layers":[
           {
             "name":"Regular",
@@ -32604,43 +32840,49 @@
                   "contours":[
                     {
                       "nodes":[
+                        "513.255 0",
+                        "564.137 241",
+                        "669.899 241",
+                        "669.899 277",
+                        "571.738 277",
+                        "602.351 422",
+                        "668.608 422",
+                        "668.608 458",
+                        "609.952 458",
+                        "660.245 696.21",
                         "621 696.21",
-                        "492 68.79",
+                        "572.023 458",
                         "389.065 458.03",
-                        "350.935 458.03",
-                        "248 68.79",
+                        "350.927 458",
+                        "167.977 458",
                         "119 696.21",
                         "79.755 696.21",
+                        "130.048 458",
+                        "69.9236 458",
+                        "69.9236 422",
+                        "137.649 422",
+                        "168.262 277",
+                        "69.9236 277",
+                        "69.9236 241",
+                        "175.863 241",
                         "226.745 0",
                         "268 0",
                         "369.985 387.06",
-                        "472 0",
-                        "513.255 0",
-                        "660.245 696.21"
+                        "472 0"
                       ]
                     },
                     {
                       "nodes":[
-                        "69.9236 422",
-                        "668.608 422",
-                        "668.608 458",
-                        "69.9236 458"
+                        "341.407 422",
+                        "248 68.79",
+                        "175.379 422"
                       ]
                     },
                     {
                       "nodes":[
-                        "69.9236 241",
-                        "185.845 241",
-                        "185.845 277",
-                        "69.9236 277"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "553.978 241",
-                        "669.899 241",
-                        "669.899 277",
-                        "553.978 277"
+                        "564.621 422",
+                        "492 68.79",
+                        "398.593 422"
                       ]
                     }
                   ]
@@ -32736,7 +32978,7 @@
         "unicodes":[
           8365
         ],
-        "lastModified":"2018-08-23 11:03:15",
+        "lastModified":"2018-08-24 19:47:26",
         "layers":[
           {
             "name":"Regular",
@@ -32747,28 +32989,26 @@
                   "contours":[
                     {
                       "nodes":[
-                        "660 696",
-                        "610 696",
-                        "321 376",
-                        "611 0",
-                        "659 0",
-                        "369 376"
-                      ]
-                    },
-                    {
-                      "nodes":[
+                        "335.265 391.795",
+                        "186 391.795",
+                        "186 696",
+                        "149 696",
+                        "149 391.795",
+                        "68.613 391.795",
+                        "68.613 354.795",
+                        "149 354.795",
                         "149 0",
                         "186 0",
-                        "186 696",
-                        "149 696"
-                      ]
-                    },
-                    {
-                      "nodes":[
+                        "186 354.795",
+                        "337.355 354.795",
+                        "611 0",
+                        "659 0",
+                        "385.355 354.795",
                         "658.613 354.795",
                         "658.613 391.795",
-                        "72.613 391.795",
-                        "72.613 354.795"
+                        "383.364 391.795",
+                        "660 696",
+                        "610 696"
                       ]
                     }
                   ]
@@ -32785,7 +33025,7 @@
         "unicodes":[
           8369
         ],
-        "lastModified":"2018-08-23 12:05:28",
+        "lastModified":"2018-08-24 19:47:55",
         "layers":[
           {
             "name":"Regular",
@@ -32836,18 +33076,18 @@
                     },
                     {
                       "nodes":[
-                        "98.8326 511.794",
-                        "653.765 511.794",
-                        "653.765 547.794",
-                        "98.8326 547.794"
+                        "88.8326 511.794",
+                        "665.765 511.794",
+                        "665.765 547.794",
+                        "88.8326 547.794"
                       ]
                     },
                     {
                       "nodes":[
-                        "98.8326 359.794",
-                        "653.765 359.794",
-                        "653.765 395.794",
-                        "98.8326 395.794"
+                        "88.8326 359.794",
+                        "665.765 359.794",
+                        "665.765 395.794",
+                        "88.8326 395.794"
                       ]
                     }
                   ]
@@ -32864,7 +33104,7 @@
         "unicodes":[
           8370
         ],
-        "lastModified":"2018-08-23 10:57:15",
+        "lastModified":"2018-08-24 19:48:09",
         "layers":[
           {
             "name":"Regular",
@@ -33874,83 +34114,53 @@
         "unicodes":[
           8377
         ],
-        "lastModified":"2018-08-23 13:43:09",
-        "mark":121,
+        "lastModified":"2018-08-24 19:48:32",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
-              {
-                "elementData":{
-                  "composite":{
-                    "builder":{
-                      "builderFill":{
-                        "curvature":0.60,
-                        "inktrapLen":2,
-                        "graph":{
-                        }
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "elementData":{
-                  "composite":{
-                    "builder":{
-                      "builderFill":{
-                        "curvature":0.60,
-                        "inktrapLen":2,
-                        "graph":{
-                        }
-                      }
-                    }
-                  }
-                }
-              },
               {
                 "elementData":{
                   "name":"Rupee",
                   "contours":[
                     {
                       "nodes":[
-                        "389 644 s",
-                        "456 615.328 c",
-                        "495.035 553.279 c",
-                        "500.399 483.691",
-                        "117 483.69",
-                        "117 446.691",
-                        "499.807 446.69",
-                        "489.119 351.485 c",
-                        "407.736 276 c",
-                        "309 276.001",
-                        "117 276.001",
-                        "117 239.001",
-                        "299 239.001 s",
-                        "310 239.001 c",
-                        "327 240.001 c",
-                        "327 240.001",
-                        "528 0.001",
-                        "576 0.001",
-                        "369 247.001",
-                        "459.364 272.154 c",
-                        "528.032 351.114 c",
-                        "537.004 446.69",
-                        "637.979 446.691",
-                        "637.979 483.691",
-                        "537.497 483.691",
-                        "532.835 556.418 c",
-                        "497 624 c",
-                        "430 659",
-                        "638.464 658.999",
-                        "638.464 695.999",
-                        "117.485 695.999",
-                        "117 659.002",
-                        "276 659",
-                        "326 659 c",
-                        "360.198 656.467 c"
+                        "399 644 s",
+                        "465.964 615.244 c",
+                        "505.035 553.279 c",
+                        "510.399 483.691",
+                        "127 483.69",
+                        "127 446.691",
+                        "509.807 446.69",
+                        "499.119 351.485 c",
+                        "417.736 276 c",
+                        "319 276.001",
+                        "127 276.001",
+                        "127 239.001",
+                        "309 239.001 s",
+                        "320 239.001 c",
+                        "337 240.001 c",
+                        "337 240.001",
+                        "538 0.001",
+                        "586 0.001",
+                        "379 247.001",
+                        "469.364 272.154 c",
+                        "538.032 351.114 c",
+                        "547.004 446.69",
+                        "628.979 446.691",
+                        "628.979 483.691",
+                        "547.497 483.691",
+                        "542.835 556.418 c",
+                        "507 624 c",
+                        "440 659",
+                        "629.464 658.999",
+                        "629.464 695.999",
+                        "127.485 695.999",
+                        "127 659.002",
+                        "286 659",
+                        "336 659 c",
+                        "370.162 656.384 c"
                       ]
                     }
                   ]
@@ -34075,7 +34285,7 @@
         "unicodes":[
           8381
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:45:47",
         "layers":[
           {
             "name":"Regular",
@@ -34086,58 +34296,59 @@
                   "contours":[
                     {
                       "nodes":[
-                        "90.4357 139.809",
-                        "90.4357 102.809",
-                        "197 102.809",
-                        "197 0",
-                        "234 0",
-                        "234 102.809",
-                        "444 102.809",
-                        "444 139.809",
-                        "234 139.809",
-                        "234 211",
-                        "405 211 s",
-                        "454 211 c",
-                        "496.982 220.034 c",
-                        "532 238 s",
-                        "611.982 279.034 c",
-                        "664 360.912 c",
-                        "664 454 s",
-                        "664 547 c",
-                        "611.92 627.842 c",
-                        "531 669 s",
-                        "495.92 686.843 c",
-                        "455 696 c",
-                        "405 696 s",
-                        "197 696",
-                        "197 248",
-                        "90.4357 248",
-                        "90.4357 211",
-                        "197 211",
-                        "197 139.809"
+                        "105.436 139.809",
+                        "105.436 102.809",
+                        "187 102.809",
+                        "187 0",
+                        "224 0",
+                        "224 102.809",
+                        "434 102.809",
+                        "434 139.809",
+                        "224 139.809",
+                        "224 211",
+                        "395 211 s",
+                        "444 211 c",
+                        "486.982 220.034 c",
+                        "522 238 s",
+                        "601.982 279.034 c",
+                        "654 360.912 c",
+                        "654 454 s",
+                        "654 547 c",
+                        "601.92 627.842 c",
+                        "521 669 s",
+                        "485.92 686.843 c",
+                        "445 696 c",
+                        "395 696 s",
+                        "187 696",
+                        "187 248",
+                        "105.436 248",
+                        "105.436 211",
+                        "187 211",
+                        "187 139.809"
                       ]
                     },
                     {
                       "nodes":[
-                        "234 248",
-                        "234 659",
-                        "405 659 s",
-                        "447 659 c",
-                        "479.856 652.698 c",
-                        "509 639 s",
-                        "579.858 605.697 c",
-                        "627 534 c",
-                        "627 454 s",
-                        "627 373.096 c",
-                        "580.858 301.303 c",
-                        "510 268 s",
-                        "480.856 254.302 c",
-                        "446 248 c",
-                        "405 248 s"
+                        "224 248",
+                        "224 659",
+                        "395 659 s",
+                        "437 659 c",
+                        "469.856 652.698 c",
+                        "499 639 s",
+                        "569.858 605.697 c",
+                        "617 534 c",
+                        "617 454 s",
+                        "617 373.096 c",
+                        "570.858 301.303 c",
+                        "500 268 s",
+                        "470.856 254.302 c",
+                        "436 248 c",
+                        "395 248 s"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -34251,13 +34462,36 @@
         "unicodes":[
           698
         ],
-        "lastModified":"2018-08-14 14:01:41",
-        "mark":121,
+        "lastModified":"2018-08-24 20:02:02",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289.79 405",
+                        "374 695.68",
+                        "236.5 695.68",
+                        "196.5 405"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "466.79 405",
+                        "551 695.68",
+                        "413.5 695.68",
+                        "373.5 405"
+                      ]
+                    }
+                  ]
+                },
+                "active":true
+              }
+            ],
             "color":"maroon"
           }
         ]
@@ -34267,7 +34501,7 @@
         "unicodes":[
           821
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-08-24 19:51:22",
         "layers":[
           {
             "name":"Regular",
@@ -35359,7 +35593,7 @@
                       "nodes":[
                         "323.504 -175",
                         "399.075 -25.7484",
-                        "366.088 -9.74835",
+                        "366.088 -9.7484",
                         "290.504 -158"
                       ]
                     }
@@ -36652,7 +36886,7 @@
               "name":"AccentStack",
               "style":"Custom",
               "horizontal":true,
-              "position":898,
+              "position":930,
               "delta":100,
               "color":"#9039f2"
             }
