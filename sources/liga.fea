@@ -22,6 +22,7 @@ feature liga {
 	sub bullet Lj by Lj.alt1
 	sub bullet Lslash by Lslash.alt1
 	sub bullet N by N.alt1
+	sub bullet Eng by Eng.alt1
 	sub bullet NJ by NJ.alt1
 	sub bullet Nacute by Nacute.alt1
 	sub bullet Ncaron by Ncaron.alt1
