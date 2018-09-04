@@ -358,8 +358,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"i",
-                  "name":"i",
+                  "id":"i.1",
+                  "name":"i.1",
                   "contours":[
                     {
                       "nodes":[
@@ -749,7 +749,7 @@
         "unicodes":[
           37
         ],
-        "lastModified":"2018-08-24 19:56:32",
+        "lastModified":"2018-09-04 14:58:29",
         "layers":[
           {
             "name":"Regular",
@@ -1854,8 +1854,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"period",
-                  "name":"period",
+                  "id":"period.1",
+                  "name":"period.1",
                   "contours":[
                     {
                       "nodes":[
@@ -1879,7 +1879,7 @@
               },
               {
                 "elementData":{
-                  "href":"period"
+                  "href":"period.1"
                 },
                 "transform":{
                   "yOffset":342.51
@@ -1935,7 +1935,7 @@
               },
               {
                 "elementData":{
-                  "href":"period"
+                  "href":"period.1"
                 },
                 "transform":{
                   "yOffset":343.51
@@ -2249,8 +2249,7 @@
                     }
                   ]
                 },
-                "opacity":0.88,
-                "active":true
+                "opacity":0.88
               }
             ],
             "anchors":[
@@ -3102,7 +3101,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -3285,7 +3285,7 @@
         "unicodes":[
           80
         ],
-        "lastModified":"2018-08-28 20:52:41",
+        "lastModified":"2018-09-04 14:48:03",
         "layers":[
           {
             "name":"Regular",
@@ -3293,7 +3293,6 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"P",
                   "name":"P",
                   "contours":[
                     {
@@ -4366,7 +4365,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -4842,7 +4842,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"i~1",
+                  "id":"i",
                   "name":"i",
                   "contours":[
                     {
@@ -5311,7 +5311,7 @@
         "unicodes":[
           112
         ],
-        "lastModified":"2018-08-28 20:50:52",
+        "lastModified":"2018-09-04 14:47:44",
         "layers":[
           {
             "name":"Regular",
@@ -5368,7 +5368,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -5495,7 +5496,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"r~1",
+                  "id":"r",
                   "name":"r",
                   "contours":[
                     {
@@ -7556,7 +7557,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "transform":{
                   "yOffset":0.08
@@ -8788,7 +8789,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"L.alt1~1",
+                  "id":"L.alt1",
                   "name":"L.alt1",
                   "contours":[
                     {
@@ -8838,7 +8839,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"N.alt1~1",
+                  "id":"N.alt1",
                   "name":"N.alt1",
                   "contours":[
                     {
@@ -9635,8 +9636,8 @@
               },
               {
                 "elementData":{
-                  "id":"slashcomb",
-                  "name":"slashcomb",
+                  "id":"slashcomb.1",
+                  "name":"slashcomb.1",
                   "contours":[
                     {
                       "nodes":[
@@ -11545,7 +11546,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -11600,7 +11601,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true,
                 "active":true
@@ -11653,7 +11654,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -11702,7 +11703,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -11983,7 +11984,7 @@
               },
               {
                 "elementData":{
-                  "href":"slashcomb"
+                  "href":"slashcomb.1"
                 },
                 "locked":true
               }
@@ -13855,7 +13856,7 @@
             "elements":[
               {
                 "elementData":{
-                  "name":"h",
+                  "name":"h.1",
                   "contours":[
                     {
                       "nodes":[
@@ -13941,7 +13942,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"U.alt1~1",
+                  "id":"U.alt1",
                   "name":"U.alt1",
                   "contours":[
                     {
@@ -14301,7 +14302,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -15068,8 +15069,6 @@
               {
                 "elementData":{
                   "href":"acutecomb"
-                },
-                "transform":{
                 },
                 "locked":true
               }
@@ -15958,8 +15957,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"t",
-                  "name":"t",
+                  "name":"t.1",
                   "contours":[
                     {
                       "nodes":[
@@ -16175,8 +16173,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"r",
-                  "name":"r",
+                  "id":"r.1",
+                  "name":"r.1",
                   "contours":[
                     {
                       "nodes":[
@@ -16541,7 +16539,7 @@
               },
               {
                 "elementData":{
-                  "id":"slashcomb~1",
+                  "id":"slashcomb",
                   "name":"slashcomb",
                   "contours":[
                     {
@@ -16610,7 +16608,7 @@
               },
               {
                 "elementData":{
-                  "href":"slashcomb~1"
+                  "href":"slashcomb"
                 },
                 "transform":{
                   "xOffset":-178,
@@ -16720,7 +16718,7 @@
                     "includes":[
                       {
                         "elementData":{
-                          "href":"period"
+                          "href":"period.1"
                         },
                         "locked":true
                       },
@@ -16999,7 +16997,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -17100,7 +17098,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"r"
+                  "href":"r.1"
                 },
                 "locked":true
               },
@@ -18175,8 +18173,8 @@
               },
               {
                 "elementData":{
-                  "id":"slash",
-                  "name":"slash",
+                  "id":"slash.1",
+                  "name":"slash.1",
                   "contours":[
                     {
                       "nodes":[
@@ -18228,7 +18226,7 @@
               },
               {
                 "elementData":{
-                  "href":"slash"
+                  "href":"slash.1"
                 },
                 "transform":{
                   "xOffset":740
@@ -18270,7 +18268,7 @@
               },
               {
                 "elementData":{
-                  "href":"slash"
+                  "href":"slash.1"
                 },
                 "transform":{
                   "xOffset":740
@@ -18613,26 +18611,24 @@
         "unicodes":[
           8230
         ],
-        "lastModified":"2018-08-27 20:42:58",
-        "mark":1,
+        "lastModified":"2018-09-04 14:49:52",
         "layers":[
           {
             "name":"Regular",
-            "mark":1,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
-                  "href":"period"
+                  "href":"period.1"
                 },
                 "transform":{
-                  "xOffset":-219.29
+                  "xOffset":-225.29
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"period"
+                  "href":"period.1"
                 },
                 "transform":{
                   "xOffset":0.10
@@ -18641,12 +18637,13 @@
               },
               {
                 "elementData":{
-                  "href":"period"
+                  "href":"period.1"
                 },
                 "transform":{
-                  "xOffset":219.29
+                  "xOffset":225.29
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               }
             ],
             "color":"maroon"
@@ -18730,7 +18727,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"slash"
+                  "href":"slash.1"
                 }
               }
             ],
@@ -19382,7 +19379,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"dblgravecomb~1",
+                  "id":"dblgravecomb",
                   "name":"dblgravecomb",
                   "contours":[
                     {
@@ -19853,7 +19850,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -19953,7 +19950,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -20011,8 +20008,8 @@
               },
               {
                 "elementData":{
-                  "id":"commaaccentcomb",
-                  "name":"commaaccentcomb",
+                  "id":"commaaccentcomb.1",
+                  "name":"commaaccentcomb.1",
                   "contours":[
                     {
                       "nodes":[
@@ -20086,7 +20083,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":50.47,
@@ -20232,7 +20229,7 @@
                   "href":"periodcentered"
                 },
                 "transform":{
-                  "xOffset":180.00,
+                  "xOffset":180,
                   "yOffset":50
                 },
                 "locked":true,
@@ -20420,7 +20417,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-0.53,
@@ -20493,7 +20490,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-3.53,
@@ -20559,7 +20556,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":10.47,
@@ -20603,7 +20600,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":11.47,
@@ -20648,7 +20645,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-4.53,
@@ -20693,7 +20690,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-4.53,
@@ -20738,7 +20735,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-0.53,
@@ -20776,14 +20773,14 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"r"
+                  "href":"r.1"
                 },
                 "locked":true,
                 "active":true
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -21225,8 +21222,8 @@
               },
               {
                 "elementData":{
-                  "id":"ogonekcomb.alt",
-                  "name":"ogonekcomb.alt",
+                  "id":"ogonekcomb.alt.1",
+                  "name":"ogonekcomb.alt.1",
                   "contours":[
                     {
                       "nodes":[
@@ -21314,7 +21311,7 @@
               },
               {
                 "elementData":{
-                  "href":"ogonekcomb.alt"
+                  "href":"ogonekcomb.alt.1"
                 },
                 "transform":{
                   "xOffset":190,
@@ -22204,7 +22201,7 @@
               },
               {
                 "elementData":{
-                  "href":"ogonekcomb.alt"
+                  "href":"ogonekcomb.alt.1"
                 },
                 "transform":{
                   "xOffset":190,
@@ -22269,7 +22266,7 @@
               },
               {
                 "elementData":{
-                  "href":"ogonekcomb.alt"
+                  "href":"ogonekcomb.alt.1"
                 },
                 "transform":{
                   "xOffset":190,
@@ -22480,7 +22477,7 @@
               },
               {
                 "elementData":{
-                  "href":"slashcomb"
+                  "href":"slashcomb.1"
                 },
                 "locked":true
               },
@@ -22540,7 +22537,7 @@
               },
               {
                 "elementData":{
-                  "href":"slashcomb"
+                  "href":"slashcomb.1"
                 },
                 "locked":true
               },
@@ -22613,8 +22610,8 @@
               },
               {
                 "elementData":{
-                  "id":"dblgravecomb",
-                  "name":"dblgravecomb",
+                  "id":"dblgravecomb.1",
+                  "name":"dblgravecomb.1",
                   "contours":[
                     {
                       "nodes":[
@@ -22696,7 +22693,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -22881,7 +22878,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3.11
@@ -22948,7 +22945,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":1
@@ -23094,7 +23091,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23135,13 +23132,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23237,7 +23234,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i~1"
+                  "href":"i"
                 },
                 "locked":true
               },
@@ -23293,7 +23290,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb~1"
+                  "href":"dblgravecomb"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23356,7 +23353,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23528,7 +23525,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-2
@@ -23568,13 +23565,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"r"
+                  "href":"r.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23661,7 +23658,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"r~1"
+                  "href":"r"
                 },
                 "locked":true
               },
@@ -23714,7 +23711,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23765,7 +23762,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -23917,7 +23914,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":6.47,
@@ -23976,7 +23973,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":6.47,
@@ -28107,7 +28104,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -28206,7 +28203,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "locked":true
               },
@@ -31407,8 +31404,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"bar",
-                  "name":"bar",
+                  "id":"bar.1",
+                  "name":"bar.1",
                   "contours":[
                     {
                       "nodes":[
@@ -31488,12 +31485,10 @@
         "unicodes":[
           8240
         ],
-        "lastModified":"2018-08-24 19:58:23",
-        "mark":1,
+        "lastModified":"2018-09-04 16:19:56",
         "layers":[
           {
             "name":"Regular",
-            "mark":1,
             "advanceWidth":740,
             "elements":[
               {
@@ -31501,110 +31496,111 @@
                   "contours":[
                     {
                       "nodes":[
-                        "457 126 s",
-                        "457 49 c",
-                        "520 -15 c",
-                        "597 -15 s",
-                        "675 -15 c",
-                        "738 49 c",
-                        "738 126 s",
-                        "738 204 c",
-                        "675 267 c",
-                        "597 267 s",
-                        "520 267 c",
-                        "457 204 c"
+                        "247 420 s",
+                        "325 420 c",
+                        "388 483 c",
+                        "388 561 s",
+                        "388 638 c",
+                        "325 701 c",
+                        "247 701 s",
+                        "170 701 c",
+                        "107 638 c",
+                        "107 561 s",
+                        "107 483 c",
+                        "170 420 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "6 561 s",
-                        "6 483 c",
-                        "69 420 c",
-                        "146 420 s",
-                        "224 420 c",
-                        "287 483 c",
-                        "287 561 s",
-                        "287 638 c",
-                        "224 701 c",
-                        "146 701 s",
-                        "69 701 c",
-                        "6 638 c"
+                        "493 267 s",
+                        "415 267 c",
+                        "352 204 c",
+                        "352 126 s",
+                        "352 49 c",
+                        "415 -15 c",
+                        "493 -15 s",
+                        "570 -15 c",
+                        "633 49 c",
+                        "633 126 s",
+                        "633 204 c",
+                        "570 267 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "419 126 s",
-                        "419 204 c",
-                        "356 267 c",
-                        "279 267 s",
-                        "201 267 c",
-                        "138 204 c",
-                        "138 126 s",
-                        "138 49 c",
-                        "201 -15 c",
-                        "279 -15 s",
-                        "356 -15 c",
-                        "419 49 c"
+                        "247 664 s",
+                        "305 664 c",
+                        "351 618 c",
+                        "351 561 s",
+                        "351 503 c",
+                        "305 457 c",
+                        "247 457 s",
+                        "190 457 c",
+                        "144 503 c",
+                        "144 561 s",
+                        "144 618 c",
+                        "190 664 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "494 126 s",
-                        "494 183 c",
-                        "540 230 c",
-                        "597 230 s",
-                        "655 230 c",
-                        "701 183 c",
-                        "701 126 s",
-                        "701 69 c",
-                        "655 22 c",
-                        "597 22 s",
-                        "540 22 c",
-                        "494 69 c"
+                        "493 22 s",
+                        "436 22 c",
+                        "389 69 c",
+                        "389 126 s",
+                        "389 183 c",
+                        "436 230 c",
+                        "493 230 s",
+                        "550 230 c",
+                        "596 183 c",
+                        "596 126 s",
+                        "596 69 c",
+                        "550 22 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "43 561 s",
-                        "43 618 c",
-                        "89 664 c",
-                        "146 664 s",
-                        "204 664 c",
-                        "250 618 c",
-                        "250 561 s",
-                        "250 503 c",
-                        "204 457 c",
-                        "146 457 s",
-                        "89 457 c",
-                        "43 503 c"
+                        "79.7203 326.734",
+                        "660.28 326.734",
+                        "660.28 359.266",
+                        "79.7203 359.266"
                       ]
                     },
                     {
                       "nodes":[
-                        "382 126 s",
-                        "382 69 c",
-                        "336 22 c",
-                        "279 22 s",
-                        "222 22 c",
-                        "175 69 c",
-                        "175 126 s",
-                        "175 183 c",
-                        "222 230 c",
-                        "279 230 s",
-                        "336 230 c",
-                        "382 183 c"
+                        "247 -15 s",
+                        "325 -15 c",
+                        "388 48 c",
+                        "388 126 s",
+                        "388 203 c",
+                        "325 266 c",
+                        "247 266 s",
+                        "170 266 c",
+                        "107 203 c",
+                        "107 126 s",
+                        "107 48 c",
+                        "170 -15 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "477 639",
-                        "13 175",
-                        "39 149",
-                        "503 613"
+                        "247 229 s",
+                        "305 229 c",
+                        "351 183 c",
+                        "351 126 s",
+                        "351 68 c",
+                        "305 22 c",
+                        "247 22 s",
+                        "190 22 c",
+                        "144 68 c",
+                        "144 126 s",
+                        "144 183 c",
+                        "190 229 c"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -31700,7 +31696,7 @@
               },
               {
                 "elementData":{
-                  "href":"bar"
+                  "href":"bar.1"
                 },
                 "transform":{
                   "xScale":0.98,
@@ -31714,7 +31710,7 @@
               },
               {
                 "elementData":{
-                  "href":"bar"
+                  "href":"bar.1"
                 },
                 "transform":{
                   "xScale":0.98,
@@ -31780,12 +31776,10 @@
         "unicodes":[
           8356
         ],
-        "lastModified":"2018-08-28 20:55:03",
-        "mark":1,
+        "lastModified":"2018-09-04 14:48:44",
         "layers":[
           {
             "name":"Regular",
-            "mark":1,
             "advanceWidth":740,
             "elements":[
               {
@@ -31925,29 +31919,58 @@
         "unicodes":[
           8359
         ],
-        "lastModified":"2018-08-28 20:59:42",
-        "mark":1,
+        "lastModified":"2018-09-04 14:48:28",
         "layers":[
           {
             "name":"Regular",
-            "mark":1,
             "advanceWidth":740,
             "elements":[
-              {
-                "elementData":{
-                  "href":"P"
-                },
-                "locked":true
-              },
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "68.0383 467.437",
-                        "68.0383 430.613",
-                        "737.453 430.613",
-                        "737.453 467.437"
+                        "36.0383 467.437",
+                        "36.0383 430.613",
+                        "705.453 430.613",
+                        "705.453 467.437"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "150.746 210.828",
+                        "373.746 210.828 s",
+                        "422.746 210.828 c",
+                        "465.728 219.862 c",
+                        "500.746 237.828 s",
+                        "580.728 278.862 c",
+                        "632.746 360.828 c",
+                        "632.746 453.828 s",
+                        "632.746 601.828 c",
+                        "513.746 695.828 c",
+                        "373.746 695.828 s",
+                        "113.746 695.828",
+                        "113.746 -0.172394",
+                        "150.746 -0.172394"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "150.746 658.828",
+                        "373.746 658.828 s",
+                        "415.746 658.828 c",
+                        "448.602 652.525 c",
+                        "477.746 638.828 s",
+                        "548.604 605.524 c",
+                        "595.746 533.828 c",
+                        "595.746 453.828 s",
+                        "595.746 372.828 c",
+                        "549.604 301.131 c",
+                        "478.746 267.828 s",
+                        "449.602 254.13 c",
+                        "414.746 247.828 c",
+                        "373.746 247.828 s",
+                        "150.746 247.828"
                       ]
                     }
                   ]
@@ -32416,7 +32439,7 @@
               },
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "transform":{
                   "xOffset":740
@@ -32520,7 +32543,7 @@
               },
               {
                 "elementData":{
-                  "href":"i"
+                  "href":"i.1"
                 },
                 "transform":{
                   "xOffset":1480
@@ -32828,7 +32851,7 @@
                     "includes":[
                       {
                         "elementData":{
-                          "href":"period"
+                          "href":"period.1"
                         },
                         "locked":true
                       }
@@ -33144,7 +33167,7 @@
         "unicodes":[
           8776
         ],
-        "lastModified":"2018-08-28 20:58:52",
+        "lastModified":"2018-09-04 14:44:08",
         "mark":121,
         "layers":[
           {
@@ -33160,28 +33183,49 @@
                   "contours":[
                     {
                       "nodes":[
-                        "602.159 375.84",
-                        "565.876 335.359 c",
-                        "488.301 277.915 c",
-                        "376.383 348.346 s",
-                        "242.517 432.647 c",
-                        "145.721 349.843 c",
-                        "110.42 310.295",
-                        "137.841 285.746",
-                        "174.051 326.178 c",
-                        "250.57 384.04 c",
-                        "356.768 317.169 s",
-                        "402.061 288.667 c",
-                        "442.886 278.038 c",
-                        "478.604 278.038",
-                        "553.282 278.062 c",
-                        "605.645 324.509 c",
-                        "629.58 351.267"
+                        "602.159 323.84",
+                        "565.876 283.359 c",
+                        "488.289 225.896 c",
+                        "376.383 296.346 s",
+                        "242.505 380.628 c",
+                        "145.721 297.843 c",
+                        "110.42 258.295",
+                        "137.841 233.746",
+                        "174.051 274.178 c",
+                        "250.564 332.031 c",
+                        "356.768 265.169 s",
+                        "402.055 236.658 c",
+                        "442.886 226.038 c",
+                        "478.604 226.038",
+                        "553.282 226.062 c",
+                        "605.645 272.509 c",
+                        "629.58 299.267"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "602.159 463.84",
+                        "565.876 423.359 c",
+                        "488.289 365.896 c",
+                        "376.383 436.346 s",
+                        "242.505 520.628 c",
+                        "145.721 437.843 c",
+                        "110.42 398.295",
+                        "137.841 373.746",
+                        "174.051 414.178 c",
+                        "250.564 472.031 c",
+                        "356.768 405.169 s",
+                        "402.055 376.658 c",
+                        "442.886 366.038 c",
+                        "478.604 366.038",
+                        "553.282 366.062 c",
+                        "605.645 412.509 c",
+                        "629.58 439.267"
                       ]
                     }
                   ]
                 },
-                "locked":true
+                "active":true
               },
               {
                 "elementData":{
@@ -33997,7 +34041,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34103,7 +34147,7 @@
             "elements":[
               {
                 "elementData":{
-                  "name":"H.alt1",
+                  "name":"H.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -34177,7 +34221,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34234,7 +34278,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34259,8 +34303,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"L.alt1",
-                  "name":"L.alt1",
+                  "id":"L.alt1.1",
+                  "name":"L.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -34313,7 +34357,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1"
+                  "href":"L.alt1.1"
                 },
                 "locked":true
               },
@@ -34357,7 +34401,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1"
+                  "href":"L.alt1.1"
                 },
                 "locked":true
               },
@@ -34405,13 +34449,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1"
+                  "href":"L.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34437,7 +34481,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1~1"
+                  "href":"L.alt1"
                 },
                 "locked":true
               },
@@ -34486,7 +34530,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1"
+                  "href":"L.alt1.1"
                 },
                 "locked":true
               },
@@ -34517,13 +34561,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"L.alt1~1"
+                  "href":"L.alt1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"slashcomb~1"
+                  "href":"slashcomb"
                 },
                 "transform":{
                   "xOffset":-131,
@@ -34566,8 +34610,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"N.alt1",
-                  "name":"N.alt1",
+                  "id":"N.alt1.1",
+                  "name":"N.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -34619,7 +34663,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1"
+                  "href":"N.alt1.1"
                 },
                 "locked":true
               },
@@ -34646,7 +34690,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1"
+                  "href":"N.alt1.1"
                 },
                 "locked":true
               },
@@ -34676,13 +34720,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1"
+                  "href":"N.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34707,7 +34751,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1"
+                  "href":"N.alt1.1"
                 },
                 "locked":true
               },
@@ -34737,7 +34781,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1"
+                  "href":"N.alt1.1"
                 },
                 "locked":true
               },
@@ -34847,7 +34891,7 @@
               },
               {
                 "elementData":{
-                  "href":"commaaccentcomb"
+                  "href":"commaaccentcomb.1"
                 },
                 "transform":{
                   "xOffset":-1.53,
@@ -34878,7 +34922,7 @@
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":7.03
@@ -34990,8 +35034,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"T.alt1",
-                  "name":"T.alt1",
+                  "name":"T.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -35067,8 +35110,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"U.alt1",
-                  "name":"U.alt1",
+                  "id":"U.alt1.1",
+                  "name":"U.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -35150,7 +35193,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35194,7 +35237,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35235,13 +35278,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -35282,7 +35325,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35326,7 +35369,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35373,7 +35416,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35420,7 +35463,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35465,7 +35508,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35509,7 +35552,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35557,7 +35600,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1~1"
+                  "href":"U.alt1"
                 },
                 "locked":true
               },
@@ -35602,7 +35645,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35648,13 +35691,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"ogonekcomb.alt"
+                  "href":"ogonekcomb.alt.1"
                 },
                 "transform":{
                   "xOffset":190,
@@ -35703,7 +35746,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -35744,7 +35787,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"U.alt1"
+                  "href":"U.alt1.1"
                 },
                 "locked":true
               },
@@ -36530,7 +36573,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"O.alt1~1",
+                  "id":"O.alt1",
                   "name":"O.alt1",
                   "contours":[
                     {
@@ -36589,7 +36632,7 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"ogonekcomb.alt~1",
+                  "id":"ogonekcomb.alt",
                   "name":"ogonekcomb.alt",
                   "contours":[
                     {
@@ -36718,8 +36761,8 @@
             "elements":[
               {
                 "elementData":{
-                  "id":"O.alt1",
-                  "name":"O.alt1",
+                  "id":"O.alt1.1",
+                  "name":"O.alt1.1",
                   "contours":[
                     {
                       "nodes":[
@@ -36804,7 +36847,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -36860,7 +36903,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -36913,7 +36956,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -36976,7 +37019,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37041,7 +37084,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37107,7 +37150,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37170,7 +37213,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37233,13 +37276,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"dblgravecomb"
+                  "href":"dblgravecomb.1"
                 },
                 "transform":{
                   "xOffset":-3
@@ -37292,7 +37335,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37348,7 +37391,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37413,7 +37456,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37479,7 +37522,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37538,7 +37581,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37597,7 +37640,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37654,7 +37697,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37710,7 +37753,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37775,7 +37818,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37843,7 +37886,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37911,7 +37954,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -37977,7 +38020,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38042,7 +38085,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38101,7 +38144,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38157,7 +38200,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38213,13 +38256,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1~1"
+                  "href":"O.alt1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"ogonekcomb.alt~1"
+                  "href":"ogonekcomb.alt"
                 },
                 "transform":{
                   "xOffset":190
@@ -38262,13 +38305,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"slashcomb"
+                  "href":"slashcomb.1"
                 },
                 "transform":{
                   "xOffset":0.00
@@ -38318,13 +38361,13 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
               {
                 "elementData":{
-                  "href":"slashcomb"
+                  "href":"slashcomb.1"
                 },
                 "transform":{
                   "xOffset":0.00
@@ -38383,7 +38426,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38439,7 +38482,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"O.alt1"
+                  "href":"O.alt1.1"
                 },
                 "locked":true
               },
@@ -38820,7 +38863,7 @@
                     "includes":[
                       {
                         "elementData":{
-                          "href":"period"
+                          "href":"period.1"
                         },
                         "locked":true
                       },
@@ -38892,7 +38935,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"N.alt1~1"
+                  "href":"N.alt1"
                 },
                 "locked":true,
                 "active":true
@@ -38924,7 +38967,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"slashcomb~1"
+                  "href":"slashcomb"
                 }
               }
             ],
@@ -38953,7 +38996,7 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"slashcomb~1"
+                  "href":"slashcomb"
                 },
                 "locked":true,
                 "active":true
@@ -39130,34 +39173,6 @@
           "kerning":{
           }
         }
-      }
-    ]
-  },
-  "workspace":{
-    "canvases":[
-      {
-        "properties":{
-          "view":{
-            "showGlyphGuides":1,
-            "showFontGuides":1,
-            "showGlyphMetrics":9,
-            "showFontMetrics":1,
-            "showPins":1,
-            "showAnchorCloud":1,
-            "showHints":1,
-            "showZones":1,
-            "showElementFrame":1,
-            "showGlobalMask":1,
-            "showTunniLines":1,
-            "showNodes":1,
-            "showHandles":1,
-            "showRulers":1,
-            "showMasterRelations":1,
-            "showTextBar":1
-          }
-        },
-        "ffn":"Major Mono Display",
-        "text":"Major Mono Display\rABCDEFGHIJKLMNOPQRSTUVWXYZ\rabcdefghijklmnopqrstuvwxyz"
       }
     ]
   }
