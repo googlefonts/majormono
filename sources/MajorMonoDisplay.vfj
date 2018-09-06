@@ -1340,7 +1340,7 @@
         "unicodes":[
           49
         ],
-        "lastModified":"2018-08-28 19:34:05",
+        "lastModified":"2018-09-06 19:05:08",
         "layers":[
           {
             "name":"Regular",
@@ -1383,7 +1383,7 @@
         "unicodes":[
           50
         ],
-        "lastModified":"2018-08-28 19:34:05",
+        "lastModified":"2018-09-06 19:05:41",
         "layers":[
           {
             "name":"Regular",
@@ -1442,7 +1442,7 @@
         "unicodes":[
           51
         ],
-        "lastModified":"2018-08-28 19:34:10",
+        "lastModified":"2018-09-06 19:05:42",
         "layers":[
           {
             "name":"Regular",
@@ -1497,7 +1497,7 @@
         "unicodes":[
           52
         ],
-        "lastModified":"2018-08-28 19:34:14",
+        "lastModified":"2018-09-06 19:05:29",
         "layers":[
           {
             "name":"Regular",
@@ -17429,12 +17429,10 @@
         "unicodes":[
           358
         ],
-        "lastModified":"2018-08-28 19:58:32",
-        "mark":121,
+        "lastModified":"2018-09-06 20:44:08",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -17473,12 +17471,10 @@
         "unicodes":[
           359
         ],
-        "lastModified":"2018-08-28 20:21:20",
-        "mark":121,
+        "lastModified":"2018-09-06 20:44:08",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -17505,7 +17501,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -17902,11 +17899,12 @@
         "unicodes":[
           178
         ],
-        "lastModified":"2018-08-28 19:34:54",
+        "lastModified":"2018-09-06 19:05:41",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -17918,18 +17916,20 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
       },
       {
         "name":"threesuperior",
         "unicodes":[
           179
         ],
-        "lastModified":"2018-08-28 19:34:10",
+        "lastModified":"2018-09-06 19:05:42",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -17941,7 +17941,8 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
       },
       {
         "name":"micro",
@@ -18079,23 +18080,26 @@
         "unicodes":[
           185
         ],
-        "lastModified":"2018-08-28 19:34:54",
+        "lastModified":"2018-09-06 19:05:08",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
             "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
                   "href":"one"
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
       },
       {
         "name":"ordmasculine",
@@ -18156,11 +18160,12 @@
         "unicodes":[
           188
         ],
-        "lastModified":"2018-08-28 19:34:14",
+        "lastModified":"2018-09-06 19:05:29",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -18203,18 +18208,20 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
       },
       {
         "name":"onehalf",
         "unicodes":[
           189
         ],
-        "lastModified":"2018-08-28 19:34:05",
+        "lastModified":"2018-09-06 19:05:41",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -18245,18 +18252,20 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
       },
       {
         "name":"threequarters",
         "unicodes":[
           190
         ],
-        "lastModified":"2018-08-28 19:34:14",
+        "lastModified":"2018-09-06 19:05:42",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
             "mark":121,
             "advanceWidth":2220,
             "elements":[
@@ -18287,7 +18296,8 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
       },
       {
         "name":"questiondown",
@@ -18719,7 +18729,7 @@
         "unicodes":[
           8260
         ],
-        "lastModified":"2018-08-14 14:01:41",
+        "lastModified":"2018-09-06 19:05:29",
         "layers":[
           {
             "name":"Regular",
@@ -18740,11 +18750,12 @@
         "unicodes":[
           8308
         ],
-        "lastModified":"2018-08-28 19:34:14",
+        "lastModified":"2018-09-06 19:05:29",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -18756,7 +18767,8 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
       },
       {
         "name":"minus",
@@ -32658,7 +32670,7 @@
       },
       {
         "name":"one.lf",
-        "lastModified":"2018-08-28 19:34:00",
+        "lastModified":"2018-09-06 19:05:08",
         "layers":[
           {
             "name":"Regular",
@@ -32676,7 +32688,7 @@
       },
       {
         "name":"two.lf",
-        "lastModified":"2018-08-28 19:34:05",
+        "lastModified":"2018-09-06 19:05:41",
         "layers":[
           {
             "name":"Regular",
@@ -32694,7 +32706,7 @@
       },
       {
         "name":"three.lf",
-        "lastModified":"2018-08-28 19:34:10",
+        "lastModified":"2018-09-06 19:05:42",
         "layers":[
           {
             "name":"Regular",
@@ -32712,7 +32724,7 @@
       },
       {
         "name":"four.lf",
-        "lastModified":"2018-08-28 19:34:14",
+        "lastModified":"2018-09-06 19:05:29",
         "layers":[
           {
             "name":"Regular",
@@ -32959,11 +32971,12 @@
         "unicodes":[
           8805
         ],
-        "lastModified":"2018-08-27 18:08:24",
+        "lastModified":"2018-09-06 19:06:21",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Needs the bottom horizontal bar as in greater than or equal to: ≥",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -32987,18 +33000,20 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Needs the bottom horizontal bar as in greater than or equal to: ≥"
       },
       {
         "name":"lessequal",
         "unicodes":[
           8804
         ],
-        "lastModified":"2018-08-28 20:46:00",
+        "lastModified":"2018-09-06 19:06:36",
         "mark":121,
         "layers":[
           {
             "name":"Regular",
+            "note":"Needs the bottom horizontal bar as in less than or equal to: ≤",
             "mark":121,
             "advanceWidth":740,
             "elements":[
@@ -33025,7 +33040,8 @@
             ],
             "color":"maroon"
           }
-        ]
+        ],
+        "note":"Needs the bottom horizontal bar as in less than or equal to: ≤"
       },
       {
         "name":"brevecomb_hookabovecomb",
@@ -33167,13 +33183,10 @@
         "unicodes":[
           8776
         ],
-        "lastModified":"2018-09-04 14:44:08",
-        "mark":121,
+        "lastModified":"2018-09-06 19:00:58",
         "layers":[
           {
             "name":"Regular",
-            "note":"I believe this is acceptable with just a single squiggle, but I have more commonly seen it with two stacked squiggles almost like an equal sign",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -33236,8 +33249,7 @@
             ],
             "color":"maroon"
           }
-        ],
-        "note":"I believe this is acceptable with just a single squiggle, but I have more commonly seen it with two stacked squiggles almost like an equal sign"
+        ]
       },
       {
         "name":"bulletoperator",
@@ -34983,12 +34995,10 @@
       },
       {
         "name":"Tbar.alt1",
-        "lastModified":"2018-08-28 19:21:48",
-        "mark":121,
+        "lastModified":"2018-09-06 20:44:08",
         "layers":[
           {
             "name":"Regular",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -35081,7 +35091,8 @@
                 "elementData":{
                   "href":"T.alt1"
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               },
               {
                 "elementData":{
@@ -39173,6 +39184,34 @@
           "kerning":{
           }
         }
+      }
+    ]
+  },
+  "workspace":{
+    "canvases":[
+      {
+        "properties":{
+          "view":{
+            "showGlyphGuides":1,
+            "showFontGuides":1,
+            "showGlyphMetrics":9,
+            "showFontMetrics":1,
+            "showPins":1,
+            "showAnchorCloud":1,
+            "showHints":1,
+            "showZones":1,
+            "showElementFrame":1,
+            "showGlobalMask":1,
+            "showTunniLines":1,
+            "showNodes":1,
+            "showHandles":1,
+            "showRulers":1,
+            "showMasterRelations":1,
+            "showTextBar":1
+          }
+        },
+        "ffn":"Major Mono Display",
+        "text":"Ŧ/Tbar.alt1 ŧ"
       }
     ]
   }
