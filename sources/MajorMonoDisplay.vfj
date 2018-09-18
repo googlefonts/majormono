@@ -749,7 +749,7 @@
         "unicodes":[
           37
         ],
-        "lastModified":"2018-09-04 14:58:29",
+        "lastModified":"2018-09-18 08:56:51",
         "layers":[
           {
             "name":"Regular",
@@ -831,7 +831,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -1340,7 +1341,7 @@
         "unicodes":[
           49
         ],
-        "lastModified":"2018-09-06 19:05:08",
+        "lastModified":"2018-09-18 08:52:26",
         "layers":[
           {
             "name":"Regular",
@@ -1353,25 +1354,29 @@
                   "contours":[
                     {
                       "nodes":[
-                        "142.48 37.11",
-                        "142.48 0.290039",
-                        "597.52 0.290039",
-                        "597.52 37.11",
-                        "388.42 37.11",
-                        "388.42 696.5",
-                        "351.59 696.5",
-                        "351.59 585.02 c",
-                        "260.91 494.34 c",
-                        "149.43 494.34",
-                        "149.43 457.51",
-                        "234.67 457.51 c",
-                        "309.27 502.29 c",
-                        "351.59 569.46",
-                        "351.59 37.11"
+                        "378.616 366.231",
+                        "378.616 695.923",
+                        "350.384 695.923",
+                        "350.384 691.013 s",
+                        "350.384 637.988 c",
+                        "307.227 594.855 c",
+                        "254.202 594.855 s",
+                        "249.292 594.855",
+                        "249.292 566.624",
+                        "254.202 566.624 s",
+                        "291.909 566.624 c",
+                        "326.867 583.563 c",
+                        "350.384 612.604",
+                        "350.384 366.231",
+                        "245.831 366.231",
+                        "245.831 338",
+                        "483.169 338",
+                        "483.169 366.231"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -1383,7 +1388,7 @@
         "unicodes":[
           50
         ],
-        "lastModified":"2018-09-06 19:05:41",
+        "lastModified":"2018-09-18 08:54:33",
         "layers":[
           {
             "name":"Regular",
@@ -1396,37 +1401,40 @@
                   "contours":[
                     {
                       "nodes":[
-                        "204.21 37.11",
-                        "279.65 120.01 c",
-                        "440.37 296.47 c",
-                        "467.4 324.85 s",
-                        "479.26 337.79 s",
-                        "520.97 383.1 c",
-                        "572.91 439.49 c",
-                        "572.91 514.29",
-                        "572.89 626.68 c",
-                        "483.26 711.42 c",
-                        "364.39 711.42 s",
-                        "249.43 711.42 c",
-                        "155.92 617.89 c",
-                        "155.92 502.93",
-                        "192.75 502.93",
-                        "192.75 597.59 c",
-                        "269.76 674.6 c",
-                        "364.39 674.6 s",
-                        "462.25 674.6 c",
-                        "536.06 605.66 c",
-                        "536.09 514.29",
-                        "536.09 453.85 c",
-                        "491.51 405.42 c",
-                        "452.16 362.7 s",
-                        "440.4 349.91 s",
-                        "409.86 317.8 c",
-                        "213.86 102.46 c",
-                        "154.4 37.09",
-                        "153.98 0.260101",
-                        "586.02 0.260101",
-                        "586.02 37.09"
+                        "290.731 366.256",
+                        "334.87 414.715 c",
+                        "402.453 488.878 c",
+                        "414.875 501.913 s",
+                        "420.791 508.394 s",
+                        "442.223 531.666 c",
+                        "468.907 560.634 c",
+                        "468.907 599.961 s",
+                        "468.907 658.952 c",
+                        "421.97 703.435 c",
+                        "359.738 703.435 s",
+                        "299.569 703.435 c",
+                        "250.594 654.46 c",
+                        "250.594 594.266 s",
+                        "250.594 589.356",
+                        "278.825 589.356",
+                        "278.825 594.266 s",
+                        "278.825 638.896 c",
+                        "315.133 675.179 c",
+                        "359.738 675.179 s",
+                        "405.866 675.179 c",
+                        "440.651 642.848 c",
+                        "440.651 599.937 s",
+                        "440.651 571.657 c",
+                        "419.073 548.188 c",
+                        "399.998 527.469 s",
+                        "394.205 521.135 s",
+                        "378.395 504.54 c",
+                        "280.715 399.642 c",
+                        "251.085 367.115 s",
+                        "249.538 365.446",
+                        "249.538 338",
+                        "475.462 338",
+                        "475.462 366.231"
                       ]
                     }
                   ]
@@ -1442,7 +1450,7 @@
         "unicodes":[
           51
         ],
-        "lastModified":"2018-09-06 19:05:42",
+        "lastModified":"2018-09-18 08:53:56",
         "layers":[
           {
             "name":"Regular",
@@ -1455,33 +1463,38 @@
                   "contours":[
                     {
                       "nodes":[
-                        "339.245 339.67",
-                        "387.475 405.93",
-                        "485.425 397.02 c",
-                        "562.535 314.88 c",
-                        "562.535 214.64 s",
-                        "562.535 108.5 c",
-                        "476.145 22.11 c",
-                        "370.005 22.11 s",
-                        "263.855 22.11 c",
-                        "177.465 108.5 c",
-                        "177.465 214.64",
-                        "140.635 214.64",
-                        "140.635 88.19 c",
-                        "243.525 -14.72 c",
-                        "370.005 -14.72 s",
-                        "496.475 -14.72 c",
-                        "599.365 88.17 c",
-                        "599.365 214.64",
-                        "599.335 326.71 c",
-                        "518.375 419.78 c",
-                        "411.975 439.59",
-                        "570.545 657.36",
-                        "570.545 694.18",
-                        "169.415 694.18",
-                        "169.415 657.36",
-                        "525.005 657.36",
-                        "309.465 361.35"
+                        "474.717 671.389",
+                        "474.717 696.306",
+                        "264.332 696.306",
+                        "264.332 668.075",
+                        "437.427 668.075",
+                        "332.382 523.899",
+                        "355.188 507.279",
+                        "380.424 541.942",
+                        "426.478 536.419 c",
+                        "460.847 498.073 c",
+                        "460.847 451.627 s",
+                        "460.847 401.253 c",
+                        "419.874 360.28 c",
+                        "369.475 360.28 s",
+                        "319.077 360.28 c",
+                        "278.129 401.253 c",
+                        "278.129 451.627",
+                        "278.154 458.771",
+                        "254.955 458.771",
+                        "249.898 458.82",
+                        "249.898 458.82 c",
+                        "249.898 452.265 c",
+                        "249.898 451.602",
+                        "249.898 385.664 c",
+                        "303.562 332 c",
+                        "369.5 332 s",
+                        "435.438 332 c",
+                        "489.102 385.664 c",
+                        "489.102 451.602 s",
+                        "489.102 506.346 c",
+                        "451.518 553.701 c",
+                        "398.689 566.982"
                       ]
                     }
                   ]
@@ -1497,7 +1510,7 @@
         "unicodes":[
           52
         ],
-        "lastModified":"2018-09-06 19:05:29",
+        "lastModified":"2018-09-18 08:50:50",
         "layers":[
           {
             "name":"Regular",
@@ -1510,24 +1523,25 @@
                   "contours":[
                     {
                       "nodes":[
-                        "122.645 218.14",
-                        "122.645 180.62",
-                        "459.085 180.62",
-                        "459.085 0.290028",
-                        "495.915 0.290028",
-                        "495.915 180.62",
-                        "617.355 180.62",
-                        "617.355 217.42",
-                        "495.935 217.42",
-                        "495.935 696.5",
-                        "458.915 696.5"
+                        "414.341 695.948",
+                        "388.368 695.948",
+                        "218.784 452.226",
+                        "217.901 450.95",
+                        "217.901 428.168",
+                        "386.11 428.168",
+                        "386.11 338",
+                        "414.341 338",
+                        "414.341 428.168",
+                        "475.099 428.168",
+                        "475.099 456.399",
+                        "414.341 456.399"
                       ]
                     },
                     {
                       "nodes":[
-                        "167.205 217.42",
-                        "459.135 632.72",
-                        "459.135 217.42"
+                        "386.11 643.634",
+                        "386.11 456.424",
+                        "254.527 456.424"
                       ]
                     }
                   ]
@@ -1952,7 +1966,7 @@
         "unicodes":[
           60
         ],
-        "lastModified":"2018-08-23 13:39:30",
+        "lastModified":"2018-09-18 08:19:18",
         "layers":[
           {
             "name":"Regular",
@@ -2022,7 +2036,7 @@
         "unicodes":[
           62
         ],
-        "lastModified":"2018-08-27 19:55:17",
+        "lastModified":"2018-09-18 08:19:18",
         "layers":[
           {
             "name":"Regular",
@@ -3871,13 +3885,13 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"371 696",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
               {
                 "name":"bottom",
-                "point":"371 0",
+                "point":"370 0",
                 "exprX":"Center",
                 "exprY":"Baseline"
               }
@@ -4211,7 +4225,7 @@
         "unicodes":[
           97
         ],
-        "lastModified":"2018-08-28 20:50:52",
+        "lastModified":"2018-09-18 08:19:18",
         "layers":[
           {
             "name":"Regular",
@@ -4282,7 +4296,7 @@
         "unicodes":[
           98
         ],
-        "lastModified":"2018-08-28 20:50:52",
+        "lastModified":"2018-09-18 08:19:18",
         "layers":[
           {
             "name":"Regular",
@@ -6081,7 +6095,8 @@
                       "delta":912
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -6639,7 +6654,7 @@
         "unicodes":[
           192
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -6723,7 +6738,7 @@
         "unicodes":[
           193
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -6778,7 +6793,7 @@
         "unicodes":[
           194
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -6843,7 +6858,7 @@
         "unicodes":[
           195
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -6931,7 +6946,7 @@
         "unicodes":[
           196
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -7053,7 +7068,7 @@
         "unicodes":[
           197
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -7140,7 +7155,7 @@
         "unicodes":[
           199
         ],
-        "lastModified":"2018-08-28 20:48:17",
+        "lastModified":"2018-09-18 09:09:44",
         "mark":241,
         "layers":[
           {
@@ -7152,7 +7167,8 @@
                 "elementData":{
                   "href":"C"
                 },
-                "locked":true
+                "locked":true,
+                "active":true
               },
               {
                 "elementData":{
@@ -7198,7 +7214,7 @@
         "unicodes":[
           214
         ],
-        "lastModified":"2018-08-28 21:00:34",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -7301,7 +7317,7 @@
         "unicodes":[
           220
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -9473,7 +9489,7 @@
         "unicodes":[
           252
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -9532,7 +9548,7 @@
         "unicodes":[
           246
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -9907,7 +9923,7 @@
         "unicodes":[
           200
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -9961,7 +9977,7 @@
         "unicodes":[
           201
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -10014,7 +10030,7 @@
         "unicodes":[
           202
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10065,7 +10081,7 @@
         "unicodes":[
           203
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10119,7 +10135,7 @@
         "unicodes":[
           204
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10173,7 +10189,7 @@
         "unicodes":[
           205
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10227,7 +10243,7 @@
         "unicodes":[
           206
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10278,7 +10294,7 @@
         "unicodes":[
           207
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10332,7 +10348,7 @@
         "unicodes":[
           209
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10381,7 +10397,7 @@
         "unicodes":[
           210
         ],
-        "lastModified":"2018-08-28 21:00:34",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10446,7 +10462,7 @@
         "unicodes":[
           211
         ],
-        "lastModified":"2018-08-28 21:00:34",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10511,7 +10527,7 @@
         "unicodes":[
           212
         ],
-        "lastModified":"2018-08-28 21:00:34",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10573,7 +10589,7 @@
         "unicodes":[
           213
         ],
-        "lastModified":"2018-08-28 21:00:34",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10638,7 +10654,7 @@
         "unicodes":[
           217
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10697,7 +10713,7 @@
         "unicodes":[
           218
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -10829,7 +10845,7 @@
         "unicodes":[
           221
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11062,7 +11078,7 @@
         "unicodes":[
           225
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11116,7 +11132,7 @@
         "unicodes":[
           226
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11167,7 +11183,7 @@
         "unicodes":[
           227
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11221,7 +11237,7 @@
         "unicodes":[
           228
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11275,7 +11291,7 @@
         "unicodes":[
           229
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11326,7 +11342,7 @@
         "unicodes":[
           232
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -11379,7 +11395,7 @@
         "unicodes":[
           233
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -11432,7 +11448,7 @@
         "unicodes":[
           234
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -11482,7 +11498,7 @@
         "unicodes":[
           235
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -11744,7 +11760,7 @@
         "unicodes":[
           242
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -11800,7 +11816,7 @@
         "unicodes":[
           243
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11857,7 +11873,7 @@
         "unicodes":[
           244
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -11911,7 +11927,7 @@
         "unicodes":[
           245
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -12030,7 +12046,7 @@
         "unicodes":[
           249
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12089,7 +12105,7 @@
         "unicodes":[
           250
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12148,7 +12164,7 @@
         "unicodes":[
           251
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12204,7 +12220,7 @@
         "unicodes":[
           253
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12253,7 +12269,7 @@
         "unicodes":[
           255
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12726,7 +12742,7 @@
         "unicodes":[
           241
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12890,7 +12906,7 @@
         "unicodes":[
           258
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -12942,7 +12958,7 @@
         "unicodes":[
           259
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -13429,7 +13445,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"374.02 930",
+                "point":"374.02 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -14363,7 +14379,7 @@
         "unicodes":[
           256
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -14415,7 +14431,7 @@
         "unicodes":[
           257
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -14716,7 +14732,7 @@
         "unicodes":[
           314
         ],
-        "lastModified":"2018-08-28 20:24:03",
+        "lastModified":"2018-09-18 08:19:00",
         "layers":[
           {
             "name":"Regular",
@@ -17459,7 +17475,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
@@ -17899,62 +17916,54 @@
         "unicodes":[
           178
         ],
-        "lastModified":"2018-09-06 19:05:41",
-        "mark":121,
+        "lastModified":"2018-09-18 09:03:00",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
                   "href":"two"
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
+        ]
       },
       {
         "name":"threesuperior",
         "unicodes":[
           179
         ],
-        "lastModified":"2018-09-06 19:05:42",
-        "mark":121,
+        "lastModified":"2018-09-18 08:54:03",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
                   "href":"three"
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
+        ]
       },
       {
         "name":"micro",
         "unicodes":[
           181
         ],
-        "lastModified":"2018-08-23 11:27:44",
-        "mark":241,
+        "lastModified":"2018-09-18 09:09:24",
         "layers":[
           {
             "name":"Regular",
-            "mark":241,
             "advanceWidth":740,
             "elements":[
               {
@@ -17973,8 +17982,8 @@
                         "564 102",
                         "564 -1",
                         "601 -1",
-                        "601 526",
-                        "564 526",
+                        "601 506",
+                        "564 506",
                         "564 231",
                         "557 111 c",
                         "472 23 c",
@@ -17982,8 +17991,8 @@
                         "267 23 c",
                         "183 106 c",
                         "176 223",
-                        "176 526",
-                        "139 526"
+                        "176 506",
+                        "139 506"
                       ]
                     }
                   ]
@@ -18080,13 +18089,10 @@
         "unicodes":[
           185
         ],
-        "lastModified":"2018-09-06 19:05:08",
-        "mark":121,
+        "lastModified":"2018-09-18 08:52:35",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -18098,8 +18104,7 @@
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
+        ]
       },
       {
         "name":"ordmasculine",
@@ -18160,144 +18165,257 @@
         "unicodes":[
           188
         ],
-        "lastModified":"2018-09-06 19:05:29",
-        "mark":121,
+        "lastModified":"2018-09-18 09:07:51",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
-                  "href":"one"
-                },
-                "locked":true,
-                "active":true
-              },
-              {
-                "elementData":{
-                  "id":"slash.1",
-                  "name":"slash.1",
                   "contours":[
                     {
                       "nodes":[
-                        "107.327 -0.1465",
-                        "151.687 -0.1465",
-                        "632.673 740.249",
-                        "588.313 740.249"
+                        "592 585",
+                        "128 121",
+                        "151 98",
+                        "615 562"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "178.616 366.231",
+                        "178.616 695.923",
+                        "150.384 695.923",
+                        "150.384 691.013 s",
+                        "150.384 637.988 c",
+                        "107.227 594.855 c",
+                        "54.2018 594.855 s",
+                        "49.292 594.855",
+                        "49.292 566.624",
+                        "54.2018 566.624 s",
+                        "91.9089 566.624 c",
+                        "126.867 583.563 c",
+                        "150.384 612.604",
+                        "150.384 366.231",
+                        "49.8306 366.231",
+                        "49.8306 338",
+                        "279.169 338",
+                        "279.169 366.231"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "587.341 357.948",
+                        "561.368 357.948",
+                        "391.784 114.226",
+                        "390.901 112.95",
+                        "390.901 90.1682",
+                        "559.11 90.1682",
+                        "559.11 0",
+                        "587.341 0",
+                        "587.341 90.1682",
+                        "648.099 90.1682",
+                        "648.099 118.399",
+                        "587.341 118.399"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "559.11 305.634",
+                        "559.11 118.424",
+                        "427.527 118.424"
                       ]
                     }
                   ]
                 },
-                "transform":{
-                  "xOffset":740
-                },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"four"
-                },
-                "transform":{
-                  "xOffset":1480
-                },
-                "locked":true
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
+        ]
       },
       {
         "name":"onehalf",
         "unicodes":[
           189
         ],
-        "lastModified":"2018-09-06 19:05:41",
-        "mark":121,
+        "lastModified":"2018-09-18 09:08:11",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
-                  "href":"one"
+                  "contours":[
+                    {
+                      "nodes":[
+                        "592 585",
+                        "128 121",
+                        "151 98",
+                        "615 562"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "178.616 366.231",
+                        "178.616 695.923",
+                        "150.384 695.923",
+                        "150.384 691.013 s",
+                        "150.384 637.988 c",
+                        "107.227 594.855 c",
+                        "54.2018 594.855 s",
+                        "49.292 594.855",
+                        "49.292 566.624",
+                        "54.2018 566.624 s",
+                        "91.9089 566.624 c",
+                        "126.867 583.563 c",
+                        "150.384 612.604",
+                        "150.384 366.231",
+                        "49.8306 366.231",
+                        "49.8306 338",
+                        "279.169 338",
+                        "279.169 366.231"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "467.356 28.2897",
+                        "511.495 76.7493 c",
+                        "579.078 150.912 c",
+                        "591.5 163.947 s",
+                        "597.416 170.428 s",
+                        "618.847 193.7 c",
+                        "645.532 222.668 c",
+                        "645.532 261.995 s",
+                        "645.532 320.986 c",
+                        "598.594 365.469 c",
+                        "536.363 365.469 s",
+                        "476.193 365.469 c",
+                        "427.218 316.494 c",
+                        "427.218 256.3 s",
+                        "427.218 251.39",
+                        "455.449 251.39",
+                        "455.449 256.3 s",
+                        "455.449 300.93 c",
+                        "491.757 337.213 c",
+                        "536.363 337.213 s",
+                        "582.49 337.213 c",
+                        "617.276 304.882 c",
+                        "617.276 261.971 s",
+                        "617.276 233.69 c",
+                        "595.697 210.222 c",
+                        "576.623 189.502 s",
+                        "570.829 183.169 s",
+                        "555.02 166.574 c",
+                        "457.34 61.6762 c",
+                        "427.709 29.1489 s",
+                        "426.163 27.4796",
+                        "426.163 0.0339036",
+                        "652.086 0.0339036",
+                        "652.086 28.2652"
+                      ]
+                    }
+                  ]
                 },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"slash.1"
-                },
-                "transform":{
-                  "xOffset":740
-                },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"two"
-                },
-                "transform":{
-                  "xOffset":1480
-                },
-                "locked":true
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
+        ]
       },
       {
         "name":"threequarters",
         "unicodes":[
           190
         ],
-        "lastModified":"2018-09-06 19:05:42",
-        "mark":121,
+        "lastModified":"2018-09-18 09:08:17",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline",
-            "mark":121,
-            "advanceWidth":2220,
+            "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
-                  "href":"three"
+                  "contours":[
+                    {
+                      "nodes":[
+                        "592 585",
+                        "128 121",
+                        "151 98",
+                        "615 562"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "274.717 671.389",
+                        "274.717 696.306",
+                        "64.3325 696.306",
+                        "64.3325 668.075",
+                        "237.427 668.075",
+                        "132.382 523.899",
+                        "155.188 507.279",
+                        "180.424 541.942",
+                        "226.478 536.419 c",
+                        "260.847 498.073 c",
+                        "260.847 451.627 s",
+                        "260.847 401.253 c",
+                        "219.874 360.28 c",
+                        "169.475 360.28 s",
+                        "119.077 360.28 c",
+                        "78.1289 401.253 c",
+                        "78.1289 451.627",
+                        "78.1535 458.771",
+                        "54.9548 458.771",
+                        "49.8977 458.82",
+                        "49.8977 458.82 c",
+                        "49.8977 452.265 c",
+                        "49.8977 451.602",
+                        "49.8977 385.664 c",
+                        "103.562 332 c",
+                        "169.5 332 s",
+                        "235.438 332 c",
+                        "289.102 385.664 c",
+                        "289.102 451.602 s",
+                        "289.102 506.346 c",
+                        "251.518 553.701 c",
+                        "198.689 566.982"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "587.341 357.948",
+                        "561.368 357.948",
+                        "391.784 114.226",
+                        "390.901 112.95",
+                        "390.901 90.1682",
+                        "559.11 90.1682",
+                        "559.11 0",
+                        "587.341 0",
+                        "587.341 90.1682",
+                        "648.099 90.1682",
+                        "648.099 118.399",
+                        "587.341 118.399"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "559.11 305.634",
+                        "559.11 118.424",
+                        "427.527 118.424"
+                      ]
+                    }
+                  ]
                 },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"slash.1"
-                },
-                "transform":{
-                  "xOffset":740
-                },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "href":"four"
-                },
-                "transform":{
-                  "xOffset":1480
-                },
-                "locked":true
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, the same size as the superiors. the numerator would be fine if the top aligns with the capheight and the denominator should sit on the baseline"
+        ]
       },
       {
         "name":"questiondown",
@@ -18737,7 +18855,18 @@
             "elements":[
               {
                 "elementData":{
-                  "href":"slash.1"
+                  "id":"slash.1",
+                  "name":"slash.1",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "107.327 -0.1465",
+                        "151.687 -0.1465",
+                        "632.673 740.249",
+                        "588.313 740.249"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -18750,25 +18879,22 @@
         "unicodes":[
           8308
         ],
-        "lastModified":"2018-09-06 19:05:29",
-        "mark":121,
+        "lastModified":"2018-09-18 08:57:59",
         "layers":[
           {
             "name":"Regular",
-            "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
                 "elementData":{
                   "href":"four"
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Should be smaller, like the size of ordFeminine and ordMasculine. Since it is a superior its top will typically sit above the cap height"
+        ]
       },
       {
         "name":"minus",
@@ -21424,13 +21550,10 @@
         "unicodes":[
           402
         ],
-        "lastModified":"2018-08-28 20:56:31",
-        "mark":121,
+        "lastModified":"2018-09-18 08:37:04",
         "layers":[
           {
             "name":"Regular",
-            "note":"I believe this should be a lowercase \"f\" with a descender. Almost like an italic \"f\" but upright",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -21440,16 +21563,34 @@
                   "contours":[
                     {
                       "nodes":[
-                        "657.5 659",
-                        "657.5 696",
-                        "138.5 696",
-                        "138.5 0",
-                        "175.5 0",
-                        "175.5 330",
-                        "565.5 330",
-                        "565.5 367",
-                        "175.5 367",
-                        "175.5 659"
+                        "503.076 662.423",
+                        "559.563 662.423",
+                        "559.563 699.246",
+                        "503.076 699.246 s",
+                        "420.935 699.246 c",
+                        "354.088 632.4 c",
+                        "354.088 550.259 s",
+                        "354.088 374.562",
+                        "222.261 374.562",
+                        "222.261 337.739",
+                        "354.088 337.739",
+                        "354.088 146.012 s",
+                        "354.088 84.1486 c",
+                        "303.763 33.8479 c",
+                        "241.924 33.8479 s",
+                        "185.437 33.8479",
+                        "185.437 -2.97548",
+                        "241.924 -2.97548 s",
+                        "324.09 -2.97548 c",
+                        "390.912 63.8712 c",
+                        "390.912 146.012 s",
+                        "390.912 337.739",
+                        "535.014 337.739",
+                        "535.014 374.562",
+                        "390.912 374.562",
+                        "390.912 550.259 s",
+                        "390.912 612.098 c",
+                        "441.237 662.423 c"
                       ]
                     }
                   ],
@@ -21462,14 +21603,12 @@
                       "delta":912
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"I believe this should be a lowercase \"f\" with a descender. Almost like an italic \"f\" but upright"
+        ]
       },
       {
         "name":"Ohorn",
@@ -23260,7 +23399,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 930",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -23313,7 +23452,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"369.90 930",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -23684,7 +23823,7 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"370 930",
+                "point":"370 696",
                 "exprX":"Center",
                 "exprY":"CapHeight"
               },
@@ -25160,7 +25299,7 @@
         "unicodes":[
           7843
         ],
-        "lastModified":"2018-08-28 19:42:02",
+        "lastModified":"2018-09-18 08:19:00",
         "mark":241,
         "layers":[
           {
@@ -31408,7 +31547,7 @@
         "unicodes":[
           8224
         ],
-        "lastModified":"2018-08-28 20:51:07",
+        "lastModified":"2018-09-18 08:22:13",
         "layers":[
           {
             "name":"Regular",
@@ -31421,10 +31560,10 @@
                   "contours":[
                     {
                       "nodes":[
-                        "388 -93",
-                        "388 773",
-                        "352 773",
-                        "352 -93"
+                        "387.132 -88.0758",
+                        "387.132 777.924",
+                        "351.132 777.924",
+                        "351.132 -88.0758"
                       ]
                     }
                   ]
@@ -31692,12 +31831,10 @@
         "unicodes":[
           8353
         ],
-        "lastModified":"2018-08-28 20:51:30",
-        "mark":1,
+        "lastModified":"2018-09-18 08:22:13",
         "layers":[
           {
             "name":"Regular",
-            "mark":1,
             "advanceWidth":740,
             "elements":[
               {
@@ -32436,7 +32573,7 @@
         "unicodes":[
           64257
         ],
-        "lastModified":"2018-08-28 20:56:31",
+        "lastModified":"2018-09-18 08:36:27",
         "layers":[
           {
             "name":"Regular",
@@ -32468,7 +32605,7 @@
         "unicodes":[
           64258
         ],
-        "lastModified":"2018-08-28 20:56:31",
+        "lastModified":"2018-09-18 08:36:27",
         "layers":[
           {
             "name":"Regular",
@@ -32499,7 +32636,7 @@
         "unicodes":[
           64256
         ],
-        "lastModified":"2018-08-28 20:56:31",
+        "lastModified":"2018-09-18 08:36:27",
         "layers":[
           {
             "name":"Regular",
@@ -32531,7 +32668,7 @@
         "unicodes":[
           64259
         ],
-        "lastModified":"2018-08-28 20:56:31",
+        "lastModified":"2018-09-18 08:36:27",
         "layers":[
           {
             "name":"Regular",
@@ -32572,7 +32709,7 @@
         "unicodes":[
           64260
         ],
-        "lastModified":"2018-08-28 20:56:31",
+        "lastModified":"2018-09-18 08:36:27",
         "layers":[
           {
             "name":"Regular",
@@ -32670,7 +32807,7 @@
       },
       {
         "name":"one.lf",
-        "lastModified":"2018-09-06 19:05:08",
+        "lastModified":"2018-09-18 08:52:26",
         "layers":[
           {
             "name":"Regular",
@@ -32688,7 +32825,7 @@
       },
       {
         "name":"two.lf",
-        "lastModified":"2018-09-06 19:05:41",
+        "lastModified":"2018-09-18 08:54:33",
         "layers":[
           {
             "name":"Regular",
@@ -32706,7 +32843,7 @@
       },
       {
         "name":"three.lf",
-        "lastModified":"2018-09-06 19:05:42",
+        "lastModified":"2018-09-18 08:53:56",
         "layers":[
           {
             "name":"Regular",
@@ -32724,7 +32861,7 @@
       },
       {
         "name":"four.lf",
-        "lastModified":"2018-09-06 19:05:29",
+        "lastModified":"2018-09-18 08:50:50",
         "layers":[
           {
             "name":"Regular",
@@ -32971,13 +33108,10 @@
         "unicodes":[
           8805
         ],
-        "lastModified":"2018-09-06 19:06:21",
-        "mark":121,
+        "lastModified":"2018-09-18 08:37:20",
         "layers":[
           {
             "name":"Regular",
-            "note":"Needs the bottom horizontal bar as in greater than or equal to: ≥",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -32986,35 +33120,40 @@
                   "contours":[
                     {
                       "nodes":[
-                        "250.5 80",
-                        "515.5 345",
-                        "250.5 611",
-                        "224.5 585",
-                        "463.5 345",
-                        "224.5 106"
+                        "506 84",
+                        "506 120",
+                        "196 120",
+                        "196 84"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "496 392",
+                        "252 628",
+                        "227 600",
+                        "443 392",
+                        "227 185",
+                        "252 157"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Needs the bottom horizontal bar as in greater than or equal to: ≥"
+        ]
       },
       {
         "name":"lessequal",
         "unicodes":[
           8804
         ],
-        "lastModified":"2018-09-06 19:06:36",
-        "mark":121,
+        "lastModified":"2018-09-18 08:37:15",
         "layers":[
           {
             "name":"Regular",
-            "note":"Needs the bottom horizontal bar as in less than or equal to: ≤",
-            "mark":121,
             "advanceWidth":740,
             "elements":[
               {
@@ -33023,25 +33162,33 @@
                   "contours":[
                     {
                       "nodes":[
-                        "449.5 80",
-                        "475.5 106",
-                        "236.5 345",
-                        "475.5 585",
-                        "449.5 611",
-                        "184.5 345"
+                        "156 84",
+                        "466 84",
+                        "466 120",
+                        "156 120"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "166 392",
+                        "410 157",
+                        "435 185",
+                        "219 392",
+                        "435 600",
+                        "410 628"
                       ]
                     }
                   ]
                 },
                 "transform":{
                   "xOffset":40
-                }
+                },
+                "active":true
               }
             ],
             "color":"maroon"
           }
-        ],
-        "note":"Needs the bottom horizontal bar as in less than or equal to: ≤"
+        ]
       },
       {
         "name":"brevecomb_hookabovecomb",
@@ -39184,34 +39331,6 @@
           "kerning":{
           }
         }
-      }
-    ]
-  },
-  "workspace":{
-    "canvases":[
-      {
-        "properties":{
-          "view":{
-            "showGlyphGuides":1,
-            "showFontGuides":1,
-            "showGlyphMetrics":9,
-            "showFontMetrics":1,
-            "showPins":1,
-            "showAnchorCloud":1,
-            "showHints":1,
-            "showZones":1,
-            "showElementFrame":1,
-            "showGlobalMask":1,
-            "showTunniLines":1,
-            "showNodes":1,
-            "showHandles":1,
-            "showRulers":1,
-            "showMasterRelations":1,
-            "showTextBar":1
-          }
-        },
-        "ffn":"Major Mono Display",
-        "text":"Ŧ/Tbar.alt1 ŧ"
       }
     ]
   }
