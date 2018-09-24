@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="1">
+  <advance width="740"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <contour>
+      <point x="370" y="711" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="698" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="623" type="line"/>
+      <point x="640" y="37" type="line"/>
+      <point x="100" y="37" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="748" type="line"/>
+      <point x="370" y="870" type="line"/>
+      <point x="492" y="748" type="line"/>
+      <point x="518" y="774" type="line"/>
+      <point x="370" y="922" type="line"/>
+      <point x="222" y="774" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="968" type="line"/>
+      <point x="299" y="943" type="line"/>
+      <point x="472" y="1069" type="line"/>
+      <point x="437" y="1114" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="370" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

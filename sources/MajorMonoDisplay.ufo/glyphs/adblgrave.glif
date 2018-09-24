@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adblgrave" format="1">
+  <advance width="740"/>
+  <unicode hex="0201"/>
+  <outline>
+    <contour>
+      <point x="545" y="753" type="line"/>
+      <point x="520" y="734" type="line"/>
+      <point x="395" y="881" type="line"/>
+      <point x="440" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="753" type="line"/>
+      <point x="300" y="734" type="line"/>
+      <point x="175" y="881" type="line"/>
+      <point x="220" y="916" type="line"/>
+    </contour>
+    <component base="a"/>
+    <contour>
+      <point x="370" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="370" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:48 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scircumflex" format="1">
+  <advance width="740"/>
+  <unicode hex="015D"/>
+  <outline>
+    <contour>
+      <point x="632" y="479" type="line"/>
+      <point x="632" y="619"/>
+      <point x="517" y="712"/>
+      <point x="376" y="712" type="curve" smooth="yes"/>
+      <point x="231" y="712"/>
+      <point x="133" y="637"/>
+      <point x="132" y="520" type="curve" smooth="yes"/>
+      <point x="131" y="401"/>
+      <point x="233" y="363"/>
+      <point x="385" y="333" type="curve" smooth="yes"/>
+      <point x="504" y="309"/>
+      <point x="596" y="294"/>
+      <point x="595" y="182" type="curve"/>
+      <point x="595" y="78"/>
+      <point x="499" y="20"/>
+      <point x="382" y="20" type="curve" smooth="yes"/>
+      <point x="233" y="20"/>
+      <point x="141" y="105"/>
+      <point x="143" y="233" type="curve"/>
+      <point x="106" y="233" type="line"/>
+      <point x="104" y="85"/>
+      <point x="213" y="-15"/>
+      <point x="382" y="-15" type="curve" smooth="yes"/>
+      <point x="510" y="-15"/>
+      <point x="632" y="48"/>
+      <point x="632" y="183" type="curve" smooth="yes"/>
+      <point x="632" y="322"/>
+      <point x="516" y="343"/>
+      <point x="396" y="368" type="curve" smooth="yes"/>
+      <point x="265" y="395"/>
+      <point x="169" y="418"/>
+      <point x="169" y="520" type="curve" smooth="yes"/>
+      <point x="169" y="631"/>
+      <point x="275" y="677"/>
+      <point x="376" y="677" type="curve" smooth="yes"/>
+      <point x="498" y="677"/>
+      <point x="595" y="600"/>
+      <point x="595" y="479" type="curve"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

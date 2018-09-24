@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave" format="1">
+  <advance width="740"/>
+  <unicode hex="1EC1"/>
+  <outline>
+    <contour>
+      <point x="561" y="377" type="line"/>
+      <point x="167" y="377" type="line"/>
+      <point x="167" y="659" type="line"/>
+      <point x="620" y="659" type="line"/>
+      <point x="620" y="696" type="line"/>
+      <point x="130" y="696" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="620" y="37" type="line"/>
+      <point x="167" y="37" type="line"/>
+      <point x="167" y="340" type="line"/>
+      <point x="561" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="496" y="748" type="line"/>
+      <point x="522" y="774" type="line"/>
+      <point x="374" y="922" type="line"/>
+      <point x="226" y="774" type="line"/>
+      <point x="252" y="748" type="line"/>
+      <point x="374" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="464" y="968" type="line"/>
+      <point x="307" y="1114" type="line"/>
+      <point x="272" y="1069" type="line"/>
+      <point x="445" y="943" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="374" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

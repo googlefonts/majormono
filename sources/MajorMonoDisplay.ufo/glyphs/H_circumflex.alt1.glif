@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="139" y="0" type="line"/>
+      <point x="139" y="260" type="line"/>
+      <point x="601" y="260" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="696" type="line"/>
+      <point x="601" y="696" type="line"/>
+      <point x="601" y="436" type="line"/>
+      <point x="139" y="436" type="line"/>
+      <point x="139" y="696" type="line"/>
+      <point x="102" y="696" type="line"/>
+      <point x="102" y="0" type="line"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

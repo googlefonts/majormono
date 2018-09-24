@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="1">
+  <advance width="740"/>
+  <unicode hex="0218"/>
+  <outline>
+    <contour>
+      <point x="387" y="-223" type="line"/>
+      <point x="427" y="-154" type="line" smooth="yes"/>
+      <point x="435" y="-139"/>
+      <point x="441" y="-126"/>
+      <point x="441" y="-113" type="curve" smooth="yes"/>
+      <point x="441" y="-78"/>
+      <point x="413" y="-50"/>
+      <point x="378" y="-50" type="curve" smooth="yes"/>
+      <point x="343" y="-50"/>
+      <point x="315" y="-78"/>
+      <point x="315" y="-113" type="curve" smooth="yes"/>
+      <point x="315" y="-147"/>
+      <point x="343" y="-175"/>
+      <point x="376" y="-176" type="curve"/>
+      <point x="349" y="-223" type="line"/>
+    </contour>
+    <component base="S" xOffset="3"/>
+    <contour>
+      <point x="378" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="378" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:48 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

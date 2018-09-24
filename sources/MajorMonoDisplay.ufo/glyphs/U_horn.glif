@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn" format="1">
+  <advance width="740"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="623" y="659" type="line"/>
+      <point x="686" y="659"/>
+      <point x="735" y="705"/>
+      <point x="734" y="775" type="curve"/>
+      <point x="734" y="861" type="line"/>
+      <point x="697" y="861" type="line"/>
+      <point x="697" y="775" type="line"/>
+      <point x="697" y="727"/>
+      <point x="666" y="696"/>
+      <point x="623" y="696" type="curve"/>
+    </contour>
+    <component base="U"/>
+    <contour>
+      <point x="370" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="651" y="696" type="move" name="horn"/>
+    </contour>
+    <contour>
+      <point x="370" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:47 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

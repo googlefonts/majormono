@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="740"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="370" y="768" type="curve" smooth="yes"/>
+      <point x="415" y="768"/>
+      <point x="452" y="804"/>
+      <point x="452" y="849" type="curve"/>
+      <point x="452" y="895"/>
+      <point x="415" y="931"/>
+      <point x="370" y="931" type="curve" smooth="yes"/>
+      <point x="325" y="931"/>
+      <point x="289" y="895"/>
+      <point x="289" y="849" type="curve" smooth="yes"/>
+      <point x="289" y="804"/>
+      <point x="325" y="768"/>
+    </contour>
+    <contour>
+      <point x="323" y="849" type="curve"/>
+      <point x="323" y="876"/>
+      <point x="344" y="897"/>
+      <point x="370" y="897" type="curve" smooth="yes"/>
+      <point x="396" y="897"/>
+      <point x="417" y="876"/>
+      <point x="417" y="849" type="curve" smooth="yes"/>
+      <point x="417" y="823"/>
+      <point x="396" y="802"/>
+      <point x="370" y="802" type="curve" smooth="yes"/>
+      <point x="344" y="802"/>
+      <point x="323" y="823"/>
+    </contour>
+    <contour>
+      <point x="370" y="696" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="370" y="930" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

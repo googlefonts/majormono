@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex" format="1">
+  <advance width="740"/>
+  <unicode hex="0125"/>
+  <outline>
+    <contour>
+      <point x="601" y="696" type="line"/>
+      <point x="601" y="367" type="line"/>
+      <point x="139" y="367" type="line"/>
+      <point x="139" y="696" type="line"/>
+      <point x="102" y="696" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="139" y="330" type="line"/>
+      <point x="601" y="330" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="696" type="line"/>
+    </contour>
+    <component base="circumflexcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>
