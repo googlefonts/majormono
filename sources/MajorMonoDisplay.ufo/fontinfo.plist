@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>696</integer>
 	<key>copyright</key>
-	<string>2018, Emre Parlak.</string>
+	<string>Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)</string>
 	<key>descender</key>
 	<integer>-100</integer>
 	<key>familyName</key>
@@ -23,6 +23,10 @@
 	<key>openTypeNameDesigner</key>
 	<string>Emre Parlak</string>
 	<key>openTypeNameDesignerURL</key>
+	<string>www.emreparlak.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Emre Parlak</string>
+	<key>openTypeNameManufacturerURL</key>
 	<string>www.emreparlak.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Major Mono Display</string>
@@ -46,7 +50,7 @@
 	<key>openTypeOS2WinAscent</key>
 	<integer>1152</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>224</integer>
+	<integer>223</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-20</integer>
