@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexacute" format="1">
+  <advance width="740"/>
+  <unicode hex="1EA5"/>
+  <outline>
+    <contour>
+      <point x="636" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="390" y="696" type="line"/>
+      <point x="351" y="696" type="line"/>
+      <point x="65" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="199" y="230" type="line"/>
+      <point x="542" y="230" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="648" type="line"/>
+      <point x="527" y="266" type="line"/>
+      <point x="214" y="266" type="line"/>
+    </contour>
+    <contour>
+      <point x="518" y="774" type="line"/>
+      <point x="370" y="922" type="line"/>
+      <point x="222" y="774" type="line"/>
+      <point x="248" y="748" type="line"/>
+      <point x="370" y="870" type="line"/>
+      <point x="492" y="748" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="1114" type="line"/>
+      <point x="280" y="968" type="line"/>
+      <point x="299" y="943" type="line"/>
+      <point x="472" y="1069" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="370" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

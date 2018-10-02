@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="740"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <component base="A"/>
+    <component base="tildecomb" xOffset="-2"/>
+    <contour>
+      <point x="370" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="698" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="370" y="930" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

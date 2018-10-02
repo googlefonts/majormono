@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="661" y="23" type="line"/>
+      <point x="624" y="23" type="line"/>
+      <point x="624" y="-5" type="line"/>
+      <point x="624" y="-63"/>
+      <point x="592" y="-96"/>
+      <point x="541" y="-96" type="curve"/>
+      <point x="540" y="-131" type="line"/>
+      <point x="609" y="-131"/>
+      <point x="661" y="-83"/>
+      <point x="661" y="-5" type="curve" smooth="yes"/>
+    </contour>
+    <component base="N.alt1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

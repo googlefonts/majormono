@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="740"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="517" y="485" type="line"/>
+      <point x="555" y="478" type="line"/>
+      <point x="603" y="689" type="line"/>
+      <point x="566" y="696" type="line"/>
+    </contour>
+    <component base="L"/>
+    <contour>
+      <point x="411" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="167" y="696" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="560" y="696" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:46 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

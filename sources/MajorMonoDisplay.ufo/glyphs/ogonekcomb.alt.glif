@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb.alt" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="371" y="-217" type="curve"/>
+      <point x="371" y="-180" type="line"/>
+      <point x="305" y="-180"/>
+      <point x="257" y="-133"/>
+      <point x="257" y="-76" type="curve"/>
+      <point x="257" y="-34"/>
+      <point x="278" y="0"/>
+      <point x="320" y="23" type="curve"/>
+      <point x="310" y="48" type="line"/>
+      <point x="257" y="25"/>
+      <point x="220" y="-16"/>
+      <point x="220" y="-76" type="curve"/>
+      <point x="220" y="-154"/>
+      <point x="286" y="-217"/>
+    </contour>
+    <contour>
+      <point x="370" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

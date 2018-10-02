@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <component base="L.alt1"/>
+    <component base="periodcentered" xOffset="236" yOffset="50"/>
+    <contour>
+      <point x="416" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="239" y="369" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="237" y="696" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="560" y="696" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="661" y="0" type="line"/>
+      <point x="661" y="696" type="line"/>
+      <point x="624" y="696" type="line"/>
+      <point x="624" y="224" type="line"/>
+      <point x="138" y="696" type="line"/>
+      <point x="99" y="696" type="line"/>
+      <point x="99" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="37" type="line"/>
+      <point x="135" y="647" type="line"/>
+      <point x="624" y="172" type="line"/>
+      <point x="624" y="37" type="line"/>
+    </contour>
+    <component base="caroncomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

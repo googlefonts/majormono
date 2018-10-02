@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="otildemacron" format="1">
+  <advance width="740"/>
+  <unicode hex="022D"/>
+  <outline>
+    <component base="tildecomb"/>
+    <component base="macroncomb" xOffset="2" yOffset="234"/>
+    <component base="o"/>
+    <contour>
+      <point x="372" y="898" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:48 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

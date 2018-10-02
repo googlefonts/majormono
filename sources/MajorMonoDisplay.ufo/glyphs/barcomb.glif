@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="barcomb" format="1">
+  <advance width="740"/>
+  <unicode hex="0335"/>
+  <outline>
+    <component base="softhyphen" yOffset="64.030"/>
+    <contour>
+      <point x="370" y="410" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

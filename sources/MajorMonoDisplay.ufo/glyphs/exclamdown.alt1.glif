@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="388" y="456" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="352" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="711" type="curve" smooth="yes"/>
+      <point x="420" y="711"/>
+      <point x="461" y="670"/>
+      <point x="461" y="620" type="curve" smooth="yes"/>
+      <point x="461" y="570"/>
+      <point x="420" y="530"/>
+      <point x="370" y="530" type="curve" smooth="yes"/>
+      <point x="320" y="530"/>
+      <point x="279" y="570"/>
+      <point x="279" y="620" type="curve" smooth="yes"/>
+      <point x="279" y="670"/>
+      <point x="320" y="711"/>
+    </contour>
+    <contour>
+      <point x="370" y="674" type="curve" smooth="yes"/>
+      <point x="340" y="674"/>
+      <point x="316" y="650"/>
+      <point x="316" y="620" type="curve" smooth="yes"/>
+      <point x="316" y="591"/>
+      <point x="340" y="566"/>
+      <point x="370" y="566" type="curve" smooth="yes"/>
+      <point x="400" y="566"/>
+      <point x="424" y="591"/>
+      <point x="424" y="620" type="curve" smooth="yes"/>
+      <point x="424" y="650"/>
+      <point x="400" y="674"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

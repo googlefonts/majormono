@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="740"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresis" xOffset="-0.500"/>
+    <contour>
+      <point x="371" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="371" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

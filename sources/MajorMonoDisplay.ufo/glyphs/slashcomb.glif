@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashcomb" format="1">
+  <advance width="740"/>
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="201" y="270" type="line"/>
+      <point x="220" y="239" type="line"/>
+      <point x="540" y="433" type="line"/>
+      <point x="521" y="464" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="348" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

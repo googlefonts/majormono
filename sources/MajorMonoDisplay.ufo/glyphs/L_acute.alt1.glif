@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute.alt1" format="1">
+  <advance width="740"/>
+  <outline>
+    <contour>
+      <point x="325" y="177" type="line"/>
+      <point x="325" y="696" type="line"/>
+      <point x="143" y="696" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="673" y="0" type="line"/>
+      <point x="673" y="177" type="line"/>
+    </contour>
+    <component base="acutecomb" xOffset="-127"/>
+    <contour>
+      <point x="416" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="237" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edblgrave" format="1">
+  <advance width="740"/>
+  <unicode hex="0205"/>
+  <outline>
+    <contour>
+      <point x="620" y="659" type="line"/>
+      <point x="620" y="696" type="line"/>
+      <point x="130" y="696" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="620" y="37" type="line"/>
+      <point x="167" y="37" type="line"/>
+      <point x="167" y="340" type="line"/>
+      <point x="561" y="340" type="line"/>
+      <point x="561" y="377" type="line"/>
+      <point x="167" y="377" type="line"/>
+      <point x="167" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="753" type="line"/>
+      <point x="524" y="734" type="line"/>
+      <point x="399" y="881" type="line"/>
+      <point x="444" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="753" type="line"/>
+      <point x="304" y="734" type="line"/>
+      <point x="179" y="881" type="line"/>
+      <point x="224" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="374" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="740"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="380" y="492" type="line"/>
+      <point x="417" y="485" type="line"/>
+      <point x="466" y="696" type="line"/>
+      <point x="429" y="703" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

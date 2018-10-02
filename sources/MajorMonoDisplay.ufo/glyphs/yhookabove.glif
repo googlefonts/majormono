@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhookabove" format="1">
+  <advance width="740"/>
+  <unicode hex="1EF7"/>
+  <outline>
+    <contour>
+      <point x="403" y="844" type="curve" smooth="yes"/>
+      <point x="403" y="822"/>
+      <point x="385" y="804"/>
+      <point x="359" y="804" type="curve" smooth="yes"/>
+      <point x="333" y="804" type="line"/>
+      <point x="333" y="745" type="line"/>
+      <point x="365" y="745" type="line"/>
+      <point x="365" y="770" type="line"/>
+      <point x="406" y="771"/>
+      <point x="438" y="804"/>
+      <point x="438" y="845" type="curve" smooth="yes"/>
+      <point x="438" y="886"/>
+      <point x="407" y="918"/>
+      <point x="353" y="918" type="curve" smooth="yes"/>
+      <point x="333" y="918" type="line"/>
+      <point x="333" y="884" type="line"/>
+      <point x="353" y="884" type="line" smooth="yes"/>
+      <point x="386" y="884"/>
+      <point x="403" y="866"/>
+    </contour>
+    <component base="y"/>
+    <contour>
+      <point x="371" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="371" y="696" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-24 15:29:53 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.741</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
